@@ -1,0 +1,70 @@
+{
+  "slug": "timeline",
+  "template": "static",
+  "meta": {
+    "title": "Timeline | Weatherhaven",
+    "description": "Weatherhaven company history since 1981."
+  },
+  "hero": {
+    "title": "Timeline",
+    "subtitle": "Four decades of innovation and deployment",
+    "variant": "image",
+    "image": "/images/placeholders/timeline-hero.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1981",
+          "title": "BEGIN OPERATIONS",
+          "description": "Serving expedition and mining sectors.",
+          "image": "/images/placeholders/tl-1981.svg"
+        },
+        {
+          "year": "1981",
+          "title": "FIRST CANADIAN MILITARY CONTRACT",
+          "description": "HERC-20 system for Canadian Forces.",
+          "image": "/images/placeholders/tl-1981m.svg"
+        },
+        {
+          "year": "1983",
+          "title": "FIRST CAMP IN ANTARCTICA",
+          "description": "Research and expeditionary missions.",
+          "image": "/images/placeholders/tl-1983.svg"
+        },
+        {
+          "year": "1984",
+          "title": "FIRST UNITED NATIONS CONTRACT",
+          "description": "UN Peacekeeping suitability.",
+          "image": "/images/placeholders/tl-1984.svg"
+        },
+        {
+          "year": "1985",
+          "title": "FIRST MECC UNITS",
+          "description": "Mobile Expandable Container Clinic introduced.",
+          "image": "/images/placeholders/tl-1985.svg"
+        },
+        {
+          "year": "2008",
+          "title": "RAY CASTELLI APPOINTED CEO",
+          "description": "Leadership transition.",
+          "image": "/images/placeholders/tl-2008.svg"
+        },
+        {
+          "year": "2016",
+          "title": "TRECC PATENT FILED",
+          "description": "Tactical Rapid Expandable Container Clinic.",
+          "image": "/images/placeholders/tl-2016.svg"
+        },
+        {
+          "year": "2020",
+          "title": "COVID-19 PANDEMIC RESPONSE",
+          "description": "Delivered over 400 shelters.",
+          "image": "/images/placeholders/tl-2020.svg"
+        }
+      ]
+    }
+  ]
+}

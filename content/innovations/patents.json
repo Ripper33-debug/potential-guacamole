@@ -1,0 +1,29 @@
+{
+  "slug": "patents",
+  "template": "static",
+  "meta": {
+    "title": "Patents | Weatherhaven",
+    "description": "51 patents in 30 countries."
+  },
+  "hero": {
+    "title": "Patents",
+    "subtitle": "51 patents in 30 countries",
+    "variant": "image",
+    "image": "/images/placeholders/patents.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Patents",
+      "body": [
+        "Weatherhaven's record of securing patents in North America, Europe and more than 30 countries is testament to the company's innovation capabilities."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/patent-doc.svg"
+    }
+  ]
+}

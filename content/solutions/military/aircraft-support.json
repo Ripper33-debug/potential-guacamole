@@ -1,0 +1,35 @@
+{
+  "slug": "aircraft-support",
+  "template": "solution",
+  "meta": {
+    "title": "Aircraft Support | Weatherhaven",
+    "description": "Rapid-deploy aviation hangars built for global operations and mission success"
+  },
+  "hero": {
+    "title": "Aircraft Support",
+    "subtitle": "Rapid-deploy aviation hangars built for global operations and mission success",
+    "image": "/images/placeholders/aircraft-support.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Aircraft hangars. Deployed fast. Mission ready.",
+      "body": [
+        "Decades of experience delivering deployable aviation infrastructure across seven continents."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/aircraft-support-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

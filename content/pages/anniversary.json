@@ -1,0 +1,34 @@
+{
+  "slug": "anniversary",
+  "template": "static",
+  "meta": {
+    "title": "45th Anniversary | Weatherhaven",
+    "description": "Celebrating 45 years of Weatherhaven."
+  },
+  "hero": {
+    "title": "45TH ANNIVERSARY",
+    "subtitle": "Celebrating 45 years of providing bespoke solutions and cutting-edge technology",
+    "variant": "image",
+    "image": "/images/placeholders/anniversary.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "heading": "Our 40th Anniversary Book",
+      "body": [
+        "Celebrating our global reach across 95+ countries, 52 patents, and deployments in peacekeeping, medical relief, and commercial sectors.",
+        "— Ray Castelli, CEO"
+      ]
+    },
+    {
+      "type": "intro",
+      "heading": "DOWNLOAD HERE",
+      "body": "Click below to download a high resolution PDF file or an e-book file",
+      "cta": {
+        "label": "PDF FILE",
+        "href": "/contact"
+      }
+    }
+  ]
+}

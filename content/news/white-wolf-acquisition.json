@@ -1,0 +1,31 @@
+{
+  "slug": "white-wolf-acquisition",
+  "template": "news",
+  "meta": {
+    "title": "Weatherhaven acquired by White Wolf Capital",
+    "description": "Acquisition announcement."
+  },
+  "hero": {
+    "title": "Weatherhaven acquired by White Wolf Capital",
+    "subtitle": "Strategic acquisition to accelerate growth.",
+    "variant": "split",
+    "image": "/images/placeholders/acquisition.svg"
+  },
+  "showContactForm": false,
+  "sections": [
+    {
+      "type": "article",
+      "date": "September 15, 2021",
+      "body": [
+        "Weatherhaven Global Resources Ltd. has been acquired by White Wolf Capital Group.",
+        "The acquisition will enable Weatherhaven to expand its product portfolio and global reach while maintaining its commitment to innovation in redeployable infrastructure."
+      ],
+      "sidebar": {
+        "name": "James Kirk",
+        "title": "Chief Operating Officer",
+        "bio": "17 years of experience leading Weatherhaven operations.",
+        "image": "/images/placeholders/james-kirk.svg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "emergency-response",
+  "template": "solution",
+  "meta": {
+    "title": "Emergency Response | Weatherhaven",
+    "description": "Designed For Disasters Of Any Scale"
+  },
+  "hero": {
+    "title": "Emergency Response",
+    "subtitle": "Designed For Disasters Of Any Scale",
+    "image": "/images/placeholders/emergency-response.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "When Every Second Counts, We Deliver",
+      "body": [
+        "Following the Haiti earthquake, Weatherhaven deployed field hospitals within 24 hours."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/emergency-response-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

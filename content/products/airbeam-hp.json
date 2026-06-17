@@ -1,0 +1,107 @@
+{
+  "slug": "airbeam-hp",
+  "template": "product",
+  "meta": {
+    "title": "Inflatable Airbeam HP | Weatherhaven",
+    "description": "The ultimate in rapid-deploy inflatable infrastructure."
+  },
+  "hero": {
+    "title": "Inflatable Airbeam HP",
+    "subtitle": "The ultimate in rapid-deploy inflatable infrastructure.",
+    "image": "/images/placeholders/airbeam-hp.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Airbeam HP: Superior Strength, Rapid Deployment, Extreme Reliability",
+      "body": [
+        "High-pressure airbeam technology for defense and disaster response."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/airbeam-hp-detail.svg",
+      "caption": {
+        "title": "High-pressure structural advantage",
+        "body": "Proven Weatherhaven engineering."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "High-pressure airbeams"
+        },
+        {
+          "text": "Rapid deployment"
+        },
+        {
+          "text": "Integrated HVAC and electrical"
+        },
+        {
+          "text": "Modular configurations"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "High-pressure airbeam technology for defense and disaster response.",
+          "image": "/images/placeholders/airbeam-hp-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/airbeam-hp-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Model",
+          "HP 11",
+          "HP 17"
+        ],
+        "rows": [
+          {
+            "label": "Floor area",
+            "values": [
+              "—",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "home",
+  "template": "homepage",
+  "meta": {
+    "title": "Weatherhaven | Redeployable Infrastructure & Shelter Systems",
+    "description": "World leader in redeployable infrastructure and camp solutions for military, medical, and commercial operations."
+  },
+  "hero": {
+    "title": "Weatherhaven",
+    "subtitle": "World leader in redeployable infrastructure",
+    "variant": "image",
+    "image": "/images/placeholders/home-hero.svg"
+  },
+  "showContactForm": false,
+  "sections": [
+    {
+      "type": "hero-collage",
+      "images": [
+        "/images/placeholders/collage-0.svg",
+        "/images/placeholders/collage-1.svg",
+        "/images/placeholders/collage-2.svg",
+        "/images/placeholders/collage-3.svg",
+        "/images/placeholders/collage-4.svg",
+        "/images/placeholders/collage-5.svg",
+        "/images/placeholders/collage-6.svg",
+        "/images/placeholders/collage-7.svg"
+      ],
+      "body": "Weatherhaven is a world leader in redeployable infrastructure, delivering turnkey shelter and camp solutions to military, medical, and commercial clients across all seven continents.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "carousel",
+      "items": [
+        {
+          "title": "Workforce Housing",
+          "description": "Remote camp accommodation for mining and energy.",
+          "href": "/solutions/commercial/workforce-housing",
+          "image": "/images/placeholders/carousel-wh.svg"
+        },
+        {
+          "title": "Antarctic Climate",
+          "description": "Polar research infrastructure.",
+          "href": "/solutions/commercial/antarctic-climate",
+          "image": "/images/placeholders/carousel-ant.svg"
+        },
+        {
+          "title": "Military Camps",
+          "description": "Turnkey military camp solutions.",
+          "href": "/solutions/military/military-camps",
+          "image": "/images/placeholders/carousel-mil.svg"
+        },
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities.",
+          "href": "/solutions/medical/field-hospitals",
+          "image": "/images/placeholders/carousel-fh.svg"
+        }
+      ]
+    },
+    {
+      "type": "split-banner",
+      "title": "Mobile Healthcare",
+      "description": "Complete mobile medical infrastructure for humanitarian relief, military operations, and emergency response worldwide.",
+      "image": "/images/placeholders/mobile-healthcare.svg",
+      "buttons": [
+        {
+          "label": "CONTACT US",
+          "href": "/contact"
+        },
+        {
+          "label": "HEALTHCARE SOLUTIONS",
+          "href": "/solutions/medical"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    },
+    {
+      "type": "split-banner",
+      "title": "TRECC",
+      "description": "Tactical Redeployable Expanding Container Capability — trailer-mounted, deployed in under 30 minutes.",
+      "image": "/images/placeholders/trecc-banner.svg",
+      "buttons": [
+        {
+          "label": "CONTACT US",
+          "href": "/contact"
+        },
+        {
+          "label": "READ MORE",
+          "href": "/products/trecc"
+        }
+      ],
+      "reversed": true
+    },
+    {
+      "type": "news-feature",
+      "featured": {
+        "title": "MECC-Based Additive Manufacturing Facility Delivered to US",
+        "description": "Weatherhaven delivers cutting-edge deployable manufacturing capability.",
+        "href": "/news/additive-manufacturing-us",
+        "image": "/images/placeholders/news-featured.svg"
+      },
+      "items": [
+        {
+          "title": "Jessica Au Appointed Weatherhaven Group CFO",
+          "description": "September 2024",
+          "href": "/news/jessica-au-cfo",
+          "image": "/images/placeholders/news-1.svg"
+        },
+        {
+          "title": "Weatherhaven Backs Future Talent",
+          "description": "Supporting next generation engineers.",
+          "href": "/news",
+          "image": "/images/placeholders/news-2.svg"
+        },
+        {
+          "title": "Weatherhaven and Compotech announce partnership",
+          "description": "Strategic partnership announcement.",
+          "href": "/news",
+          "image": "/images/placeholders/news-3.svg"
+        }
+      ]
+    },
+    {
+      "type": "team-cta",
+      "title": "We're committed to finding the right solution for you",
+      "body": "Our expert team is ready to discuss your project requirements and deliver a turnkey solution tailored to your mission.",
+      "image": "/images/placeholders/team.svg",
+      "cta": {
+        "label": "GET IN TOUCH WITH AN EXPERT",
+        "href": "/contact"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "main": [
+    {
+      "label": "ABOUT",
+      "href": "/about",
+      "children": [
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Timeline",
+          "href": "/about/timeline"
+        },
+        {
+          "label": "Supplier Information",
+          "href": "/about/supplier-information"
+        },
+        {
+          "label": "45th Anniversary",
+          "href": "/about/anniversary"
+        }
+      ]
+    },
+    {
+      "label": "PRODUCTS",
+      "href": "/products/containerized-solutions",
+      "children": [
+        {
+          "label": "Containerized Solutions",
+          "href": "/products/containerized-solutions"
+        },
+        {
+          "label": "Softwall",
+          "href": "/products/softwall"
+        },
+        {
+          "label": "Auxiliary Equipment",
+          "href": "/products/auxiliary-equipment"
+        }
+      ]
+    },
+    {
+      "label": "SOLUTIONS & APPLICATIONS",
+      "href": "/solutions/medical",
+      "children": [
+        {
+          "label": "Medical",
+          "href": "/solutions/medical"
+        },
+        {
+          "label": "Commercial",
+          "href": "/solutions/commercial"
+        },
+        {
+          "label": "Military",
+          "href": "/solutions/military"
+        },
+        {
+          "label": "Services",
+          "href": "/solutions/services"
+        }
+      ]
+    },
+    {
+      "label": "PROJECTS",
+      "href": "/projects"
+    },
+    {
+      "label": "INNOVATIONS",
+      "href": "/innovations"
+    }
+  ],
+  "footer": {
+    "legal": [
+      {
+        "label": "GDPR STATEMENT",
+        "href": "/about"
+      },
+      {
+        "label": "COOKIE POLICY",
+        "href": "/about"
+      },
+      {
+        "label": "ABOUT",
+        "href": "/about"
+      },
+      {
+        "label": "SUPPLIER INFORMATION",
+        "href": "/about/supplier-information"
+      },
+      {
+        "label": "T&C OF PURCHASE",
+        "href": "/about"
+      },
+      {
+        "label": "T&C OF SALE",
+        "href": "/about"
+      },
+      {
+        "label": "CORPORATE SOCIAL RESPONSIBILITY",
+        "href": "/about"
+      },
+      {
+        "label": "CONTACT",
+        "href": "/contact"
+      }
+    ]
+  }
+}

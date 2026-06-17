@@ -1,0 +1,20 @@
+{
+  "slug": "solar-shades",
+  "template": "static",
+  "meta": {
+    "title": "Solar Shades | Weatherhaven",
+    "description": "Environmental impact of solar shades."
+  },
+  "hero": {
+    "title": "Environmental Impact of Solar Shades",
+    "variant": "image",
+    "image": "/images/placeholders/solar-impact.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Solarshades reduce energy consumption and extend the life of shelter fabric in hot climates."
+    }
+  ]
+}

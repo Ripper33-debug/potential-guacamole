@@ -1,0 +1,115 @@
+{
+  "slug": "ateps",
+  "template": "product",
+  "meta": {
+    "title": "ATEPS | Weatherhaven",
+    "description": "Air Transportable Expandable Pallet System"
+  },
+  "hero": {
+    "title": "ATEPS",
+    "subtitle": "Air Transportable Expandable Pallet System",
+    "image": "/images/placeholders/ateps.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "tactical capability in a pallet footprint",
+      "body": [
+        "Fits on a single 463L pallet and expands in minutes to provide a secure, insulated workspace.",
+        "Compatible with C-130, C-17, and A400M aircraft."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/ateps-detail.svg",
+      "caption": {
+        "title": "Mission-ready design",
+        "body": "Military-grade aluminum chassis with integrated systems."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Two-person setup in under 15 minutes"
+        },
+        {
+          "text": "463L pallet footprint"
+        },
+        {
+          "text": "Extreme climate performance"
+        },
+        {
+          "text": "Quick-connect shore power"
+        },
+        {
+          "text": "Ruggedized exterior"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "Fits on a single 463L pallet and expands in minutes to provide a secure, insulated workspace.",
+          "image": "/images/placeholders/ateps-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/ateps-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Category",
+          "Details"
+        ],
+        "rows": [
+          {
+            "label": "Packed Size",
+            "values": [
+              "88\" x 108\""
+            ]
+          },
+          {
+            "label": "Weight",
+            "values": [
+              "2,500 lbs"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

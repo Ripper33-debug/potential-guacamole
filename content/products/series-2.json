@@ -1,0 +1,107 @@
+{
+  "slug": "series-2",
+  "template": "product",
+  "meta": {
+    "title": "Series 2 | Weatherhaven",
+    "description": "Modular, insulated systems for remote and extreme environments"
+  },
+  "hero": {
+    "title": "Series 2",
+    "subtitle": "Modular, insulated systems for remote and extreme environments",
+    "image": "/images/placeholders/series-2.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Sustained operations in remote and extreme environments",
+      "body": [
+        "CH-15 and CH-20 systems offering versatility from -51°C to +49°C."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/series-2-detail.svg",
+      "caption": {
+        "title": "Efficient and adaptable",
+        "body": "High-strength steel frame with integrated HVAC."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Extreme climate insulation"
+        },
+        {
+          "text": "High-strength steel frame"
+        },
+        {
+          "text": "Integrated HVAC/electrical"
+        },
+        {
+          "text": "Fast setup and scalability"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "CH-15 and CH-20 systems offering versatility from -51°C to +49°C.",
+          "image": "/images/placeholders/series-2-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/series-2-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Specification",
+          "Series 2",
+          "Series 1.5"
+        ],
+        "rows": [
+          {
+            "label": "Temperature Range",
+            "values": [
+              "-51°C to +49°C",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

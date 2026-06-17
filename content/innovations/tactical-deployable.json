@@ -1,0 +1,20 @@
+{
+  "slug": "tactical-deployable",
+  "template": "static",
+  "meta": {
+    "title": "Tactical Deployable | Weatherhaven",
+    "description": "Advanced tactical deployable systems."
+  },
+  "hero": {
+    "title": "Advanced tactical deployable system",
+    "variant": "image",
+    "image": "/images/placeholders/tactical.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Advanced tactical deployable systems engineered for military operations in the most demanding environments."
+    }
+  ]
+}

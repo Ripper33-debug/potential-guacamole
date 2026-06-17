@@ -1,0 +1,44 @@
+{
+  "slug": "south-america",
+  "template": "projects-region",
+  "meta": {
+    "title": "South America Projects | Weatherhaven",
+    "description": "Weatherhaven projects in South America."
+  },
+  "hero": {
+    "title": "South America",
+    "variant": "region",
+    "region": "south-america"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "tag": "BRAZIL",
+          "title": "Brazilian Army",
+          "description": "Field hospital for Brazilian Army.",
+          "image": "/images/placeholders/brazil.svg"
+        },
+        {
+          "tag": "CHILE",
+          "title": "Chilean Ministry of Health",
+          "description": "Modular hospital complexes.",
+          "image": "/images/placeholders/chile.svg"
+        },
+        {
+          "tag": "PERU",
+          "title": "Quellaveco Mine Turnkey Camp",
+          "description": "Large-scale mining camp.",
+          "image": "/images/placeholders/peru.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "FIND OUT MORE",
+      "body": "These projects represent just a selection of our worldwide deployments. Contact us to discuss your specific requirements."
+    }
+  ]
+}

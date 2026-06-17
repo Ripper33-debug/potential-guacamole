@@ -1,0 +1,44 @@
+{
+  "slug": "antarctica",
+  "template": "projects-region",
+  "meta": {
+    "title": "Antarctica Projects | Weatherhaven",
+    "description": "Weatherhaven projects in Antarctica."
+  },
+  "hero": {
+    "title": "Antarctica",
+    "variant": "region",
+    "region": "antarctica"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "tag": "ANTARCTIC",
+          "title": "Chinese Army – Kunlun Station and Taishan Station",
+          "description": "Polar camp systems for research stations.",
+          "image": "/images/placeholders/kunlun.svg"
+        },
+        {
+          "tag": "ANTARCTIC",
+          "title": "Beyond EPICA Climate Research Program",
+          "description": "Climate research facility in Antarctica.",
+          "image": "/images/placeholders/epica.svg"
+        },
+        {
+          "tag": "ANTARCTIC",
+          "title": "British Antarctic Survey",
+          "description": "Tracked vehicle shelter systems.",
+          "image": "/images/placeholders/bas.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "FIND OUT MORE",
+      "body": "These projects represent just a selection of our worldwide deployments. Contact us to discuss your specific requirements."
+    }
+  ]
+}

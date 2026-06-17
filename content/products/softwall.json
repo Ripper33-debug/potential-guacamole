@@ -1,0 +1,108 @@
+{
+  "slug": "softwall",
+  "template": "hub",
+  "meta": {
+    "title": "Softwall | Weatherhaven",
+    "description": "Redeployable soft-walled structures for diverse environments"
+  },
+  "hero": {
+    "title": "Softwall",
+    "subtitle": "Redeployable soft-walled structures for diverse environments",
+    "image": "/images/placeholders/softwall.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Weatherhaven designs and manufactures redeployable soft-walled structures for military, medical, and commercial operations worldwide.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Softwall",
+      "items": [
+        {
+          "tag": "POLAR",
+          "title": "Polar Units",
+          "description": "Extreme climate shelter systems.",
+          "href": "/products/polar-units",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "MTS",
+          "title": "Modular Tentage System",
+          "description": "Enduring operations in harsh environments.",
+          "href": "/products/mts",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "SERIES 4",
+          "title": "Series 4",
+          "description": "Trusted in extreme environments.",
+          "href": "/products/series-4",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "RDMSS",
+          "title": "RDMSS",
+          "description": "The world's most advanced shelter system.",
+          "href": "/products/rdmss",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "MEX-26",
+          "title": "MEX-26",
+          "description": "Aircraft & vehicle maintenance system.",
+          "href": "/products/mex-26",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "SERIES 2",
+          "title": "Series 2",
+          "description": "Modular insulated systems.",
+          "href": "/products/series-2",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "AIRHAVEN HP",
+          "title": "Inflatable Airbeam HP",
+          "description": "High-pressure inflatable infrastructure.",
+          "href": "/products/airbeam-hp",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "AIRHAVEN LP",
+          "title": "Inflatable Airbeam LP",
+          "description": "Rapidly deployable inflatable systems.",
+          "href": "/products/airbeam-lp",
+          "buttonLabel": "FIND OUT MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

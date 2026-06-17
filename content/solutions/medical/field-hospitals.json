@@ -1,0 +1,75 @@
+{
+  "slug": "field-hospitals",
+  "template": "solution",
+  "meta": {
+    "title": "Field Hospitals | Weatherhaven",
+    "description": "Fully equipped medical facilities designed to deliver reliable care in remote, austere, or high-pressure environments"
+  },
+  "hero": {
+    "title": "Field Hospitals",
+    "subtitle": "Fully equipped medical facilities designed to deliver reliable care in remote, austere, or high-pressure environments",
+    "image": "/images/placeholders/field-hospitals.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Clinical capability, anywhere on Earth",
+      "body": [
+        "Weatherhaven engineers, manufactures, and installs fully equipped mobile field hospitals from 10 to hundreds of beds."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/field-hospitals-intro.svg",
+      "caption": {
+        "title": "Medical Facilities",
+        "body": "Level I, II, and III facilities for commercial, military, and emergency response."
+      }
+    },
+    {
+      "type": "columns",
+      "items": [
+        {
+          "title": "First Aid & Triage Facilities (Level I)",
+          "body": [
+            "Doctor's office equivalent for diagnosing and treating patients.",
+            "Reception, examination, and stabilization capabilities."
+          ],
+          "image": "/images/placeholders/fh-l1.svg"
+        },
+        {
+          "title": "Portable Surgical Centres (Level II)",
+          "body": [
+            "Temperature-controlled hygienic complex for surgery.",
+            "Interconnected shelters with controlled staff movement."
+          ],
+          "image": "/images/placeholders/fh-l2.svg"
+        },
+        {
+          "title": "Military Field Hospitals (Level III)",
+          "body": [
+            "Full-scale hospitals for surgery, resuscitation, and post-op care.",
+            "Includes kitchens, laundry, and staff housing."
+          ],
+          "image": "/images/placeholders/fh-l3.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mobile Medical Care",
+      "body": [
+        "Our Extended Height Mobile Expandable Container Capability adds 4.5 feet of headroom for operating rooms and critical care."
+      ]
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

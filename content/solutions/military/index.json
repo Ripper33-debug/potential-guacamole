@@ -1,0 +1,127 @@
+{
+  "slug": "military",
+  "template": "hub",
+  "meta": {
+    "title": "Military | Weatherhaven",
+    "description": "Supporting the operator, delivering the mission"
+  },
+  "hero": {
+    "title": "Military",
+    "subtitle": "Supporting the operator, delivering the mission",
+    "image": "/images/placeholders/military.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Our redeployable turnkey infrastructure has been used by more than 30 international militaries globally.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Military",
+      "items": [
+        {
+          "title": "Military Camps",
+          "description": "Redeployable military camps.",
+          "href": "/solutions/military/military-camps",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities.",
+          "href": "/solutions/medical/field-hospitals",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Deployable 3D Printing",
+          "description": "Field additive manufacturing.",
+          "href": "/solutions/military/deployable-3d-printing",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres.",
+          "href": "/solutions/military/command-posts",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Ground Stations",
+          "description": "Satellite ground stations.",
+          "href": "/solutions/military/ground-stations",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Field Kitchens and Dining",
+          "description": "Redeployable kitchens.",
+          "href": "/solutions/military/field-kitchens",
+          "buttonLabel": "READ MORE"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Workshops",
+      "items": [
+        {
+          "title": "Vehicle Workshops",
+          "description": "Fleet maintenance anywhere.",
+          "href": "/solutions/military/vehicle-workshops",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Aircraft Support",
+          "description": "Deployable aviation hangars.",
+          "href": "/solutions/military/aircraft-support",
+          "buttonLabel": "READ MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

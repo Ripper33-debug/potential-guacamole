@@ -1,0 +1,35 @@
+{
+  "slug": "command-posts",
+  "template": "solution",
+  "meta": {
+    "title": "Command Posts | Weatherhaven",
+    "description": "Supporting the warfighter with the latest in Command Post technology"
+  },
+  "hero": {
+    "title": "Command Posts",
+    "subtitle": "Supporting the warfighter with the latest in Command Post technology",
+    "image": "/images/placeholders/command-posts.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "The best in Command Post technology",
+      "body": [
+        "Modular command post systems with clean-on spaces and integrated mission technologies."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/command-posts-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

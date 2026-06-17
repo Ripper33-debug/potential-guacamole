@@ -1,0 +1,20 @@
+{
+  "slug": "extended-height",
+  "template": "static",
+  "meta": {
+    "title": "Extended Height MECC | Weatherhaven",
+    "description": "Extended height expandable containers."
+  },
+  "hero": {
+    "title": "Extended Height Mobile Expandable Container",
+    "variant": "image",
+    "image": "/images/placeholders/extended.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "EHMECC technology adds unprecedented internal height to standard 20' expandable containers."
+    }
+  ]
+}

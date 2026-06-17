@@ -1,0 +1,33 @@
+{
+  "name": "Weatherhaven",
+  "phone": "1-604-451-8900",
+  "email": "info@weatherhaven.com",
+  "address": "#130-8610 Glenlyon Parkway, Burnaby, BC, Canada, V5J 0B6",
+  "social": [
+    {
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/company/weatherhaven"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://youtube.com"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://facebook.com"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com"
+    }
+  ],
+  "markets": [
+    "Military",
+    "Medical",
+    "Commercial",
+    "Mining",
+    "Energy",
+    "Government",
+    "Other"
+  ]
+}

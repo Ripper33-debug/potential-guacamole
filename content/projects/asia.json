@@ -1,0 +1,44 @@
+{
+  "slug": "asia",
+  "template": "projects-region",
+  "meta": {
+    "title": "Asia Projects | Weatherhaven",
+    "description": "Weatherhaven projects in Asia."
+  },
+  "hero": {
+    "title": "Asia",
+    "variant": "region",
+    "region": "asia"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "tag": "UAE",
+          "title": "50-Bed Simulation Hospital",
+          "description": "Desert encampment medical simulation facility.",
+          "image": "/images/placeholders/uae.svg"
+        },
+        {
+          "tag": "JAPAN",
+          "title": "Redeployable Helicopter Camp",
+          "description": "Modular camp for helicopter operations.",
+          "image": "/images/placeholders/japan.svg"
+        },
+        {
+          "tag": "MONGOLIA",
+          "title": "Oyu Tolgoi Remote Workforce Camp",
+          "description": "Large-scale remote mining camp.",
+          "image": "/images/placeholders/mongolia.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "FIND OUT MORE",
+      "body": "These projects represent just a selection of our worldwide deployments. Contact us to discuss your specific requirements."
+    }
+  ]
+}

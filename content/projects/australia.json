@@ -1,0 +1,38 @@
+{
+  "slug": "australia",
+  "template": "projects-region",
+  "meta": {
+    "title": "Australia Projects | Weatherhaven",
+    "description": "Weatherhaven projects in Australia."
+  },
+  "hero": {
+    "title": "Australia",
+    "variant": "region",
+    "region": "australia"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "tag": "AUSTRALIA",
+          "title": "Australian Department of National Defence",
+          "description": "Multiple shelter deployments for ADF.",
+          "image": "/images/placeholders/adf.svg"
+        },
+        {
+          "tag": "AUSTRALIA",
+          "title": "AIR 67 Super Hornet Command and Control",
+          "description": "MECC command and control unit.",
+          "image": "/images/placeholders/air67.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "FIND OUT MORE",
+      "body": "These projects represent just a selection of our worldwide deployments. Contact us to discuss your specific requirements."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "training-support",
+  "template": "solution",
+  "meta": {
+    "title": "Training & In-Service Support | Weatherhaven",
+    "description": "Complete, Customized Support"
+  },
+  "hero": {
+    "title": "Training & In-Service Support",
+    "subtitle": "Complete, Customized Support",
+    "image": "/images/placeholders/training-support.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Training & In-Service Support",
+      "body": [
+        "Custom training packages including Train the Trainer and Field Service Representative programs."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/training-support-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "jessica-au-cfo",
+  "template": "news",
+  "meta": {
+    "title": "Jessica Au Appointed CFO | Weatherhaven",
+    "description": "Jessica Au appointed Chief Financial Officer."
+  },
+  "hero": {
+    "title": "Jessica Au Appointed Weatherhaven Group CFO",
+    "subtitle": "Weatherhaven is pleased to announce the appointment of Jessica Au as Chief Financial Officer.",
+    "variant": "split",
+    "image": "/images/placeholders/jessica-au.svg"
+  },
+  "showContactForm": false,
+  "sections": [
+    {
+      "type": "article",
+      "date": "September 2024",
+      "body": [
+        "Weatherhaven is pleased to announce that Jessica Au has been appointed Chief Financial Officer of Weatherhaven Global Resources Ltd.",
+        "Jessica joined Weatherhaven in 2018 and has served in progressively senior finance roles. Prior to Weatherhaven, she was with PwC and holds a degree from the University of British Columbia."
+      ],
+      "sidebar": {
+        "name": "James Kirk",
+        "title": "Chief Operating Officer",
+        "bio": "17 years of experience as a Mechanical Engineer leading global operations.",
+        "image": "/images/placeholders/james-kirk.svg"
+      }
+    }
+  ]
+}

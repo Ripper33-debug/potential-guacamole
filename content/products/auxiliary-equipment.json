@@ -1,0 +1,94 @@
+{
+  "slug": "auxiliary-equipment",
+  "template": "hub",
+  "meta": {
+    "title": "Auxiliary Equipment | Weatherhaven",
+    "description": "Comprehensive range of auxiliary equipment for field infrastructure"
+  },
+  "hero": {
+    "title": "Auxiliary Equipment",
+    "subtitle": "Comprehensive range of auxiliary equipment for field infrastructure",
+    "image": "/images/placeholders/auxiliary-equipment.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "To ensure fully functional deployments, Weatherhaven provides auxiliary equipment designed to support field infrastructure in demanding environments.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Auxiliary Equipment",
+      "items": [
+        {
+          "tag": "VESTIBULES",
+          "title": "Vestibules, Interconnectors & Corridors",
+          "description": "Custom lengths for flexibility.",
+          "href": "/products/vestibules",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "SOLARSHADES",
+          "title": "Solarshades",
+          "description": "UV protection and energy savings.",
+          "href": "/products/solarshades",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "ELECTRICAL",
+          "title": "Electrical Distribution",
+          "description": "Power distribution panels and cabling.",
+          "href": "/contact",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "WATER",
+          "title": "Water Purification",
+          "description": "Integrated water treatment systems.",
+          "href": "/contact",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "HVAC",
+          "title": "Environmental Control Unit",
+          "description": "Heating, ventilation, and air conditioning.",
+          "href": "/contact",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "POWER",
+          "title": "Power Generation & Distribution",
+          "description": "Customized power solutions.",
+          "href": "/contact",
+          "buttonLabel": "FIND OUT MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

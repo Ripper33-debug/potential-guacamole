@@ -1,0 +1,39 @@
+{
+  "slug": "index",
+  "template": "hub",
+  "meta": {
+    "title": "News | Weatherhaven",
+    "description": "Latest news from Weatherhaven."
+  },
+  "hero": {
+    "title": "News",
+    "subtitle": "Latest updates from Weatherhaven",
+    "variant": "navy"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "title": "Jessica Au Appointed Weatherhaven Group CFO",
+          "href": "/news/jessica-au-cfo",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/jessica-au.svg"
+        },
+        {
+          "title": "Weatherhaven acquired by White Wolf Capital",
+          "href": "/news/white-wolf-acquisition",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/acquisition.svg"
+        },
+        {
+          "title": "MECC-Based Additive Manufacturing Facility Delivered to US",
+          "href": "/news/additive-manufacturing-us",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/am-facility.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tire-maintenance",
+  "template": "solution",
+  "meta": {
+    "title": "Tire Maintenance | Weatherhaven",
+    "description": "Deployable tire workshops boosting readiness anywhere, anytime, with ease"
+  },
+  "hero": {
+    "title": "Tire Maintenance",
+    "subtitle": "Deployable tire workshops boosting readiness anywhere, anytime, with ease",
+    "image": "/images/placeholders/tire-maintenance.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rapid tyre maintenance anywhere in the world",
+      "body": [
+        "MECC-based deployable tire maintenance with storage-rotation capability."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/tire-maintenance-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

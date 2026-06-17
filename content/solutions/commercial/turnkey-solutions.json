@@ -1,0 +1,35 @@
+{
+  "slug": "turnkey-solutions",
+  "template": "solution",
+  "meta": {
+    "title": "Turnkey Solutions | Weatherhaven",
+    "description": "From Concept to Camp—We Handle It All"
+  },
+  "hero": {
+    "title": "Turnkey Solutions",
+    "subtitle": "From Concept to Camp—We Handle It All",
+    "image": "/images/placeholders/turnkey-solutions.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "From Concept to Camp—We Handle It All",
+      "body": [
+        "End-to-end services including design, construction, power, water, and camp infrastructure."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/turnkey-solutions-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

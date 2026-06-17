@@ -1,0 +1,44 @@
+{
+  "slug": "north-america",
+  "template": "projects-region",
+  "meta": {
+    "title": "North America Projects | Weatherhaven",
+    "description": "Weatherhaven projects in North America."
+  },
+  "hero": {
+    "title": "North America",
+    "variant": "region",
+    "region": "north-america"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cards",
+      "items": [
+        {
+          "tag": "CANADA",
+          "title": "Government of Canada (HQSS)",
+          "description": "Headquarters Shelter System for Canadian Forces.",
+          "image": "/images/placeholders/hqss.svg"
+        },
+        {
+          "tag": "CANADA",
+          "title": "Government of Canada (MSVS)",
+          "description": "Medium Support Vehicle System shelters.",
+          "image": "/images/placeholders/msvs.svg"
+        },
+        {
+          "tag": "USA",
+          "title": "First-ever Additive Manufacturing",
+          "description": "Deployable 3D printing facility.",
+          "image": "/images/placeholders/usa-am.svg"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "FIND OUT MORE",
+      "body": "These projects represent just a selection of our worldwide deployments. Contact us to discuss your specific requirements."
+    }
+  ]
+}

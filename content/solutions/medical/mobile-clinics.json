@@ -1,0 +1,39 @@
+{
+  "slug": "mobile-clinics",
+  "template": "solution",
+  "meta": {
+    "title": "Mobile Clinics | Weatherhaven",
+    "description": "Bring medical care to the field, with modular layouts that adapt quickly to your mission's requirements."
+  },
+  "hero": {
+    "title": "Mobile Clinics",
+    "subtitle": "Bring medical care to the field, with modular layouts that adapt quickly to your mission's requirements.",
+    "image": "/images/placeholders/mobile-clinics.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Healthcare That Moves With You",
+      "body": [
+        "Mobile clinics facilitate medical care for civilians, military, and humanitarian missions in remote areas."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/mobile-clinics-intro.svg",
+      "caption": {
+        "title": "Configurable units",
+        "body": "Adapt quickly to mission requirements."
+      }
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

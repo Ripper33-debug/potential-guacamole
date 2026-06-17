@@ -1,0 +1,20 @@
+{
+  "slug": "extreme-climate",
+  "template": "static",
+  "meta": {
+    "title": "Extreme Climate | Weatherhaven",
+    "description": "Extreme climate and logistics."
+  },
+  "hero": {
+    "title": "Extreme Climate and logistics",
+    "variant": "image",
+    "image": "/images/placeholders/extreme.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Solutions engineered for operation from -50°C to +50°C with optimized logistics for remote delivery."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "expandable-space",
+  "template": "static",
+  "meta": {
+    "title": "Expandable Portable Space | Weatherhaven",
+    "description": "Expandable portable space solutions."
+  },
+  "hero": {
+    "title": "Expandable Portable Space",
+    "variant": "image",
+    "image": "/images/placeholders/expandable.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Expandable container and shelter systems that maximize usable space while minimizing transport footprint."
+    }
+  ]
+}

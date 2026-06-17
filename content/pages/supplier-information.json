@@ -1,0 +1,36 @@
+{
+  "slug": "supplier-information",
+  "template": "static",
+  "meta": {
+    "title": "Supplier Information | Weatherhaven",
+    "description": "Information for Weatherhaven suppliers."
+  },
+  "hero": {
+    "title": "Supplier Information",
+    "variant": "image",
+    "image": "/images/placeholders/supplier.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "heading": "About Weatherhaven",
+      "body": [
+        "Leading manufacturer of portable shelter systems since 1981 with global presence and collaborative supplier relationships."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Weatherhaven Values",
+      "body": "Integrity, honesty, excellence, and sustainability guide our supplier partnerships."
+    },
+    {
+      "type": "text",
+      "heading": "Working With Weatherhaven",
+      "body": [
+        "Commodities include mechanical components, electrical components, sheet metal fabrication, fabric manufacturing, and packaging.",
+        "Apply via purchasing@weatherhaven.com"
+      ]
+    }
+  ]
+}

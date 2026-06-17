@@ -1,0 +1,35 @@
+{
+  "slug": "ground-stations",
+  "template": "solution",
+  "meta": {
+    "title": "Ground Stations | Weatherhaven",
+    "description": "Precision ground stations for a connected planet."
+  },
+  "hero": {
+    "title": "Ground Stations",
+    "subtitle": "Precision ground stations for a connected planet.",
+    "image": "/images/placeholders/ground-stations.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Connecting Earth to Orbit — Anywhere",
+      "body": [
+        "Reliable redeployable infrastructure for satellite communication and TT&C operations."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/ground-stations-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

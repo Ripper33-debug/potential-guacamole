@@ -1,0 +1,21 @@
+{
+  "slug": "contact",
+  "template": "static",
+  "meta": {
+    "title": "Contact | Weatherhaven",
+    "description": "Contact Weatherhaven for redeployable infrastructure solutions."
+  },
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our expert team",
+    "variant": "image",
+    "image": "/images/placeholders/contact.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Contact us for more information on our redeployable infrastructure solutions."
+    }
+  ]
+}

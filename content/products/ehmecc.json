@@ -1,0 +1,118 @@
+{
+  "slug": "ehmecc",
+  "template": "product",
+  "meta": {
+    "title": "EHMECC | Weatherhaven",
+    "description": "Raising the roof on 20' expanding container capability"
+  },
+  "hero": {
+    "title": "EHMECC",
+    "subtitle": "Raising the roof on 20' expanding container capability",
+    "image": "/images/placeholders/ehmecc.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "EHMECC offers the most deployed volume of any expanding container.",
+      "body": [
+        "Integrated roof lift for 4.2m internal height with 36m² floor area and no floor or wall hinges.",
+        "Transportable as a standard 20' ISO container with setup in less than 20 minutes."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/ehmecc-detail.svg",
+      "caption": {
+        "title": "Unprecedented deployed volume",
+        "body": "Unmatched operational versatility worldwide."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Integrated roof lift system"
+        },
+        {
+          "text": "36m² internal floor area"
+        },
+        {
+          "text": "Standard 20' ISO transport"
+        },
+        {
+          "text": "Setup in under 20 minutes"
+        },
+        {
+          "text": "No specialized tools required"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "Integrated roof lift for 4.2m internal height with 36m² floor area and no floor or wall hinges.",
+          "image": "/images/placeholders/ehmecc-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/ehmecc-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Specification",
+          "Packed",
+          "Deployed"
+        ],
+        "rows": [
+          {
+            "label": "Height",
+            "values": [
+              "—",
+              "4.2m internal"
+            ]
+          },
+          {
+            "label": "Floor Area",
+            "values": [
+              "—",
+              "36m²"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

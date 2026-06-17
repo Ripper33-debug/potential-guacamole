@@ -1,0 +1,20 @@
+{
+  "slug": "energy-efficiency",
+  "template": "static",
+  "meta": {
+    "title": "Energy Efficiency | Weatherhaven",
+    "description": "Energy efficient shelter systems."
+  },
+  "hero": {
+    "title": "Energy Efficiency",
+    "variant": "image",
+    "image": "/images/placeholders/energy.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "body": "Integrated solar power and energy-efficient designs reduce operational costs in remote deployments."
+    }
+  ]
+}

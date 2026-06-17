@@ -1,0 +1,124 @@
+{
+  "slug": "bmecc",
+  "template": "product",
+  "meta": {
+    "title": "BMECC | Weatherhaven",
+    "description": "The robust, mobile, and rapidly deployable container solution."
+  },
+  "hero": {
+    "title": "BMECC",
+    "subtitle": "The robust, mobile, and rapidly deployable container solution.",
+    "image": "/images/placeholders/bmecc.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rapid deployment meets mission adaptability",
+      "body": [
+        "The BMECC is engineered for speed and versatility for critical missions, meeting ISO standards for transport as a standard 20' container.",
+        "Transportable as a standard 20' ISO container with rapid deployment for clinics, kitchens, or workshops."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/bmecc-detail.svg",
+      "caption": {
+        "title": "Intermodal transport and mission-ready design.",
+        "body": "Deploy in 20 minutes with 2 people."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Folds up as a 20' ISO container"
+        },
+        {
+          "text": "Rapid deployment: 2 people, 20 minutes"
+        },
+        {
+          "text": "Fully insulated for extreme climates"
+        },
+        {
+          "text": "Rugged steel construction"
+        },
+        {
+          "text": "Solar-ready roof"
+        },
+        {
+          "text": "Low maintenance surface"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "The BMECC is engineered for speed and versatility for critical missions, meeting ISO standards for transport as a standard 20' container.",
+          "image": "/images/placeholders/bmecc-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/bmecc-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Category",
+          "Details"
+        ],
+        "rows": [
+          {
+            "label": "Packed Size",
+            "values": [
+              "8' W x 8'6\" H x 20' L"
+            ]
+          },
+          {
+            "label": "Deployed Size",
+            "values": [
+              "24' 2.5\" W x 8' 10.5\" H x 20' L"
+            ]
+          },
+          {
+            "label": "Operating Temperature",
+            "values": [
+              "-40°C to +50°C"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

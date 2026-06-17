@@ -1,0 +1,90 @@
+{
+  "slug": "about",
+  "template": "static",
+  "meta": {
+    "title": "About Us | Weatherhaven",
+    "description": "Global leader in redeployable infrastructure since 1981."
+  },
+  "hero": {
+    "title": "About Us",
+    "subtitle": "Global leader in redeployable infrastructure",
+    "variant": "image",
+    "image": "/images/placeholders/about-hero.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "text",
+      "heading": "About Us",
+      "body": [
+        "Weatherhaven is a global leader in redeployable infrastructure for military, medical, and commercial operations.",
+        "Vision: To be the world's most trusted provider of portable infrastructure.",
+        "Mission: To design, manufacture and deliver the world's most advanced redeployable infrastructure."
+      ]
+    },
+    {
+      "type": "text",
+      "body": "Founded in 1981 in BC, Canada, Weatherhaven has expanded into global markets and maintains ISO 9001:2015 registration."
+    },
+    {
+      "type": "team",
+      "heading": "Executive Team",
+      "members": [
+        {
+          "name": "Ray Castelli",
+          "title": "CEO"
+        },
+        {
+          "name": "Jessica Au",
+          "title": "CFO"
+        },
+        {
+          "name": "James Kirk",
+          "title": "COO"
+        }
+      ]
+    },
+    {
+      "type": "values",
+      "heading": "Our Values",
+      "items": [
+        {
+          "title": "Reliability",
+          "description": "Delivering on time and on budget.",
+          "image": "/images/placeholders/value-rel.svg"
+        },
+        {
+          "title": "Quality",
+          "description": "High engineering standards in everything we build.",
+          "image": "/images/placeholders/value-qual.svg"
+        },
+        {
+          "title": "Environment",
+          "description": "Sustainable, low-impact solutions.",
+          "image": "/images/placeholders/value-env.svg"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Latest group news",
+      "items": [
+        {
+          "title": "Weatherhaven Backs Future Talent",
+          "href": "/news",
+          "buttonLabel": "VIEW MORE"
+        },
+        {
+          "title": "Jessica Au Appointed CFO",
+          "href": "/news/jessica-au-cfo",
+          "buttonLabel": "VIEW MORE"
+        },
+        {
+          "title": "Weatherhaven and Compotech partnership",
+          "href": "/news",
+          "buttonLabel": "VIEW MORE"
+        }
+      ]
+    }
+  ]
+}

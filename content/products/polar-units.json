@@ -1,0 +1,105 @@
+{
+  "slug": "polar-units",
+  "template": "product",
+  "meta": {
+    "title": "Polar Units | Weatherhaven",
+    "description": "Extreme performance solutions for the world's harshest climates"
+  },
+  "hero": {
+    "title": "Polar Units",
+    "subtitle": "Extreme performance solutions for the world's harshest climates",
+    "image": "/images/placeholders/polar-units.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Proven solutions for the most extreme climates",
+      "body": [
+        "Supporting climate research and expeditionary operations since our first Antarctic camp in 1983."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/polar-units-detail.svg",
+      "caption": {
+        "title": "Built for survival",
+        "body": "Designed for comfort in extreme cold."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Polar-set level insulation"
+        },
+        {
+          "text": "Lightweight and compact"
+        },
+        {
+          "text": "Rapid assembly"
+        },
+        {
+          "text": "Fully insulated"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "Supporting climate research and expeditionary operations since our first Antarctic camp in 1983.",
+          "image": "/images/placeholders/polar-units-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/polar-units-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Model",
+          "Details"
+        ],
+        "rows": [
+          {
+            "label": "Temperature Range",
+            "values": [
+              "-50°C to +50°C"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

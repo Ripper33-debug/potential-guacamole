@@ -1,0 +1,105 @@
+{
+  "slug": "vestibules",
+  "template": "product",
+  "meta": {
+    "title": "Vestibules, Interconnectors & Corridors | Weatherhaven",
+    "description": "Seamless connectivity and weather protection across modular systems"
+  },
+  "hero": {
+    "title": "Vestibules, Interconnectors & Corridors",
+    "subtitle": "Seamless connectivity and weather protection across modular systems",
+    "image": "/images/placeholders/vestibules.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Designed for efficiency, comfort, and integration",
+      "body": [
+        "Essential links between containers and soft-wall systems creating weather-controlled facilities."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/vestibules-detail.svg",
+      "caption": {
+        "title": "Entry transition",
+        "body": "Reduce heat loss and air intrusion."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Various cover configurations"
+        },
+        {
+          "text": "Hard or fabric door options"
+        },
+        {
+          "text": "Insulated or non-insulated"
+        },
+        {
+          "text": "Floor systems available"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "Essential links between containers and soft-wall systems creating weather-controlled facilities.",
+          "image": "/images/placeholders/vestibules-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/vestibules-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Category",
+          "Details"
+        ],
+        "rows": [
+          {
+            "label": "Configuration",
+            "values": [
+              "Custom lengths"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "transportation-logistics",
+  "template": "solution",
+  "meta": {
+    "title": "Transportation and Logistics | Weatherhaven",
+    "description": "Built For Intermodal Transportation"
+  },
+  "hero": {
+    "title": "Transportation and Logistics",
+    "subtitle": "Built For Intermodal Transportation",
+    "image": "/images/placeholders/transportation-logistics.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Transportation and Logistics",
+      "body": [
+        "International shipping experience with cost-effective packaging for fabric camps and expandable containers."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/transportation-logistics-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

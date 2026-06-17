@@ -1,0 +1,35 @@
+{
+  "slug": "military-camps",
+  "template": "solution",
+  "meta": {
+    "title": "Military Camps | Weatherhaven",
+    "description": "Redeployable military camps built for global missions"
+  },
+  "hero": {
+    "title": "Military Camps",
+    "subtitle": "Redeployable military camps built for global missions",
+    "image": "/images/placeholders/military-camps.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Deploy faster, operate stronger with Weatherhaven camps",
+      "body": [
+        "40 years of turnkey military camp solutions including power, water, and kitchens."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/military-camps-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

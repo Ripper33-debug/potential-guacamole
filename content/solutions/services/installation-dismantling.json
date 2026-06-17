@@ -1,0 +1,35 @@
+{
+  "slug": "installation-dismantling",
+  "template": "solution",
+  "meta": {
+    "title": "Installation & Dismantling | Weatherhaven",
+    "description": "Effortless Install & Dismantle"
+  },
+  "hero": {
+    "title": "Installation & Dismantling",
+    "subtitle": "Effortless Install & Dismantle",
+    "image": "/images/placeholders/installation-dismantling.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Installation & Dismantling",
+      "body": [
+        "Expert installation crews ensure your deployment goes smoothly from start to finish."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/installation-dismantling-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

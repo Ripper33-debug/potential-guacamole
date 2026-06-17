@@ -1,0 +1,113 @@
+{
+  "slug": "trecc",
+  "template": "product",
+  "meta": {
+    "title": "TRECC | Weatherhaven",
+    "description": "The tactical mission space, expanding the art of the possible."
+  },
+  "hero": {
+    "title": "TRECC",
+    "subtitle": "The tactical mission space, expanding the art of the possible.",
+    "image": "/images/placeholders/trecc.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Rapidly agile, TRECC expands the possibilities.",
+      "body": [
+        "Trailer-mounted innovation fully deployed in under 30 minutes by two operators.",
+        "Mobile systems integrated and ready for self-sufficient operational capability."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/trecc-detail.svg",
+      "caption": {
+        "title": "Mobile systems integrated",
+        "body": "Self-sufficient operational capability."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Rapid deployment under 30 mins"
+        },
+        {
+          "text": "Trailer-mounted"
+        },
+        {
+          "text": "Scalable and modular"
+        },
+        {
+          "text": "Operates -40°C to +50°C"
+        },
+        {
+          "text": "Integrated HVAC and electrical"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "Trailer-mounted innovation fully deployed in under 30 minutes by two operators.",
+          "image": "/images/placeholders/trecc-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/trecc-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Model",
+          "TRECC 10",
+          "TRECC 15",
+          "TRECC 20"
+        ],
+        "rows": [
+          {
+            "label": "Setup Time",
+            "values": [
+              "<30 min",
+              "<30 min",
+              "<30 min"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

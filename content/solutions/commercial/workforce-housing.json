@@ -1,0 +1,35 @@
+{
+  "slug": "workforce-housing",
+  "template": "solution",
+  "meta": {
+    "title": "Workforce Housing | Weatherhaven",
+    "description": "Remote workforce accommodation anywhere on Earth"
+  },
+  "hero": {
+    "title": "Workforce Housing",
+    "subtitle": "Remote workforce accommodation anywhere on Earth",
+    "image": "/images/placeholders/workforce-housing.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "No Location Is Too Remote",
+      "body": [
+        "Portable infrastructure and modular systems protect your workforce in the most challenging environments."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/workforce-housing-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

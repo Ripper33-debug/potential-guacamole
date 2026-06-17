@@ -1,0 +1,86 @@
+{
+  "slug": "index",
+  "template": "hub",
+  "meta": {
+    "title": "Projects | Weatherhaven",
+    "description": "Global deployments across 95+ countries."
+  },
+  "hero": {
+    "title": "Projects",
+    "subtitle": "Deployed to more than 95 countries across all 7 continents",
+    "image": "/images/placeholders/projects.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Founded in 1981, Weatherhaven has deployed its products to more than 95 countries across all 7 continents.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "text",
+      "heading": "Proven expertise in mobile, redeployable systems and integrated camps",
+      "body": "Backed by decades of innovation and real-world experience, we deliver mission-ready solutions tailored to the unique needs of every environment."
+    },
+    {
+      "type": "cards",
+      "heading": "Browse by continent",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Africa",
+          "description": "",
+          "href": "/projects/africa",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/africa-map.svg"
+        },
+        {
+          "title": "Antarctica",
+          "description": "",
+          "href": "/projects/antarctica",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/antarctica-map.svg"
+        },
+        {
+          "title": "Asia",
+          "description": "",
+          "href": "/projects/asia",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/asia-map.svg"
+        },
+        {
+          "title": "Australia",
+          "description": "",
+          "href": "/projects/australia",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/australia-map.svg"
+        },
+        {
+          "title": "Europe",
+          "description": "",
+          "href": "/projects/europe",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/europe-map.svg"
+        },
+        {
+          "title": "North America",
+          "description": "",
+          "href": "/projects/north-america",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/north-america-map.svg"
+        },
+        {
+          "title": "South America",
+          "description": "",
+          "href": "/projects/south-america",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/south-america-map.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "field-kitchens",
+  "template": "solution",
+  "meta": {
+    "title": "Field Kitchens and Dining | Weatherhaven",
+    "description": "Redeployable kitchens bringing cooked meals to remote missions worldwide."
+  },
+  "hero": {
+    "title": "Field Kitchens and Dining",
+    "subtitle": "Redeployable kitchens bringing cooked meals to remote missions worldwide.",
+    "image": "/images/placeholders/field-kitchens.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Quality food on deployed operations",
+      "body": [
+        "From tactical galleys to facilities feeding 1,000 personnel."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/field-kitchens-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

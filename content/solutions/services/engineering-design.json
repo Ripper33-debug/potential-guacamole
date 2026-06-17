@@ -1,0 +1,35 @@
+{
+  "slug": "engineering-design",
+  "template": "solution",
+  "meta": {
+    "title": "Engineering & Design | Weatherhaven",
+    "description": "Customized to suit your unique needs"
+  },
+  "hero": {
+    "title": "Engineering & Design",
+    "subtitle": "Customized to suit your unique needs",
+    "image": "/images/placeholders/engineering-design.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Engineering & Design",
+      "body": [
+        "From portable units to integrated turnkey camps with product configurations, drawings, and interoperability analysis."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/engineering-design-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "mts",
+  "template": "product",
+  "meta": {
+    "title": "Modular Tentage System | Weatherhaven",
+    "description": "Supporting your enduring operation in harsh environments"
+  },
+  "hero": {
+    "title": "Modular Tentage System",
+    "subtitle": "Supporting your enduring operation in harsh environments",
+    "image": "/images/placeholders/mts.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "MTS innovative, simple, it just works.",
+      "body": [
+        "High-strength frames with rapid deployment for military operations worldwide."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/mts-detail.svg",
+      "caption": {
+        "title": "Flexible modular architecture",
+        "body": "Tailored to diverse military requirements."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "High-strength lightweight frame"
+        },
+        {
+          "text": "Rapid deployment"
+        },
+        {
+          "text": "Integrated electrical and HVAC"
+        },
+        {
+          "text": "Military standards tested"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "High-strength frames with rapid deployment for military operations worldwide.",
+          "image": "/images/placeholders/mts-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/mts-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Width",
+          "Length",
+          "Height @ Peak"
+        ],
+        "rows": [
+          {
+            "label": "8'",
+            "values": [
+              "8'",
+              "—",
+              "—"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

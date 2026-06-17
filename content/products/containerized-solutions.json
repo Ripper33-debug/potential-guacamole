@@ -1,0 +1,87 @@
+{
+  "slug": "containerized-solutions",
+  "template": "hub",
+  "meta": {
+    "title": "Containerized Solutions | Weatherhaven",
+    "description": "Integrated expandable container solutions for over 30 years"
+  },
+  "hero": {
+    "title": "Containerized Solutions",
+    "subtitle": "Integrated expandable container solutions for over 30 years",
+    "image": "/images/placeholders/containerized-solutions.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Weatherhaven has been producing integrated expandable container solutions for over 30 years. Our innovative designs are built entirely around the end users' needs.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Containerized Solutions",
+      "items": [
+        {
+          "tag": "MECC",
+          "title": "Mobile Expandable Container Configuration",
+          "description": "The world's most popular expandable container.",
+          "href": "/products/mecc",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "EHMECC",
+          "title": "Extended Height MECC",
+          "description": "Raising the roof on 20' expanding container capability.",
+          "href": "/products/ehmecc",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "TRECC",
+          "title": "Tactical Redeployable Expanding Container Capability",
+          "description": "Trailer-mounted tactical mission space.",
+          "href": "/products/trecc",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "BMECC",
+          "title": "Basic Mobile Expandable Container Configuration",
+          "description": "Robust, mobile, rapidly deployable container solution.",
+          "href": "/products/bmecc",
+          "buttonLabel": "FIND OUT MORE"
+        },
+        {
+          "tag": "ATEPS",
+          "title": "Air Transportable Expandable Pallet System",
+          "description": "Tactical capability in a pallet footprint.",
+          "href": "/products/ateps",
+          "buttonLabel": "FIND OUT MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

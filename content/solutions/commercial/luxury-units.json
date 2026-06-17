@@ -1,0 +1,35 @@
+{
+  "slug": "luxury-units",
+  "template": "solution",
+  "meta": {
+    "title": "Luxury Mobile Recreation Units | Weatherhaven",
+    "description": "From Desert Heat to Arctic Cold—Comfort Everywhere"
+  },
+  "hero": {
+    "title": "Luxury Mobile Recreation Units",
+    "subtitle": "From Desert Heat to Arctic Cold—Comfort Everywhere",
+    "image": "/images/placeholders/luxury-units.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "From Desert Heat to Arctic Cold—Comfort Everywhere",
+      "body": [
+        "Premium mobile units with full amenities for government and military VIP applications."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/luxury-units-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

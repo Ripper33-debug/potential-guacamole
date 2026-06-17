@@ -1,0 +1,118 @@
+{
+  "slug": "mecc",
+  "template": "product",
+  "meta": {
+    "title": "MECC | Weatherhaven",
+    "description": "The world's most popular expandable container."
+  },
+  "hero": {
+    "title": "MECC",
+    "subtitle": "The world's most popular expandable container.",
+    "image": "/images/placeholders/mecc.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "MECC robust and operationally effective.",
+      "body": [
+        "The MECC offers a 3:1 expansion ratio with 15-20 minute setup time and global transportability.",
+        "Deployed on the ground or on the back of a vehicle, the MECC provides unmatched flexibility."
+      ],
+      "cta": {
+        "label": "VIEW BROCHURE",
+        "href": "/contact",
+        "variant": "primary"
+      },
+      "image": "/images/placeholders/mecc-detail.svg",
+      "caption": {
+        "title": "Limitless applications",
+        "body": "From combat to humanitarian relief."
+      }
+    },
+    {
+      "type": "features",
+      "heading": "Key Features",
+      "items": [
+        {
+          "text": "Rapidly deployable"
+        },
+        {
+          "text": "ISO standard dimensions"
+        },
+        {
+          "text": "All-weather operation"
+        },
+        {
+          "text": "Integrated systems available"
+        },
+        {
+          "text": "Vehicle or ground deployment"
+        }
+      ]
+    },
+    {
+      "type": "feature-grid",
+      "items": [
+        {
+          "title": "Engineered for mission success",
+          "description": "The MECC offers a 3:1 expansion ratio with 15-20 minute setup time and global transportability.",
+          "image": "/images/placeholders/mecc-grid-1.svg"
+        },
+        {
+          "title": "Operational effectiveness in the field",
+          "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
+          "image": "/images/placeholders/mecc-grid-2.svg"
+        }
+      ]
+    },
+    {
+      "type": "specs",
+      "table": {
+        "columns": [
+          "Specification",
+          "MECC-1",
+          "MECC-2"
+        ],
+        "rows": [
+          {
+            "label": "Floor Area",
+            "values": [
+              "—",
+              "—"
+            ]
+          },
+          {
+            "label": "Setup Time",
+            "values": [
+              "15-20 min",
+              "15-20 min"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "related-solutions",
+      "heading": "Related Solutions",
+      "items": [
+        {
+          "title": "Field Hospitals",
+          "description": "Mobile medical facilities",
+          "href": "/solutions/medical/field-hospitals"
+        },
+        {
+          "title": "Command Posts",
+          "description": "Tactical command centres",
+          "href": "/solutions/military/command-posts"
+        },
+        {
+          "title": "Mobile Workshops",
+          "description": "Vehicle maintenance",
+          "href": "/solutions/military/vehicle-workshops"
+        }
+      ]
+    }
+  ]
+}

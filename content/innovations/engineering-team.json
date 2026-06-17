@@ -1,0 +1,28 @@
+{
+  "slug": "engineering-team",
+  "template": "static",
+  "meta": {
+    "title": "Engineering Team | Weatherhaven",
+    "description": "World class engineering team."
+  },
+  "hero": {
+    "title": "World class engineering team",
+    "variant": "image",
+    "image": "/images/placeholders/eng-team.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "World class engineering team",
+      "body": [
+        "Weatherhaven's world class engineering team has been recognized for innovation and capability.",
+        "They are the backbone behind our 51 patents and next-generation system solutions."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      }
+    }
+  ]
+}

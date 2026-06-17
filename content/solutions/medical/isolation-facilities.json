@@ -1,0 +1,35 @@
+{
+  "slug": "isolation-facilities",
+  "template": "solution",
+  "meta": {
+    "title": "Isolation Facilities | Weatherhaven",
+    "description": "Secure containment that protects people and preserves mission readiness"
+  },
+  "hero": {
+    "title": "Isolation Facilities",
+    "subtitle": "Secure containment that protects people and preserves mission readiness",
+    "image": "/images/placeholders/isolation-facilities.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Contain the Risk - Maintain the Mission",
+      "body": [
+        "Mobile units for CBRN decontamination and isolation with special liners and air-filtration systems."
+      ],
+      "cta": {
+        "label": "CONSULT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/isolation-facilities-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

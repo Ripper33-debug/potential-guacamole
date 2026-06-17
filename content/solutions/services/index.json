@@ -1,0 +1,109 @@
+{
+  "slug": "services",
+  "template": "hub",
+  "meta": {
+    "title": "Services | Weatherhaven",
+    "description": "Fully Integrated Service & Support"
+  },
+  "hero": {
+    "title": "Services",
+    "subtitle": "Fully Integrated Service & Support",
+    "image": "/images/placeholders/services.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "To complement our portable units and systems, we offer value-added services that support your unique field requirements.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Services",
+      "items": [
+        {
+          "title": "Engineering & Design",
+          "description": "Custom product development.",
+          "href": "/solutions/services/engineering-design",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Transportation and Logistics",
+          "description": "Built for intermodal transport.",
+          "href": "/solutions/services/transportation-logistics",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Installation & Dismantling",
+          "description": "Effortless install and dismantle.",
+          "href": "/solutions/services/installation-dismantling",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Repair and Overhaul",
+          "description": "Maintaining deployable capability.",
+          "href": "/solutions/services/repair-overhaul",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Training & In-Service Support",
+          "description": "Complete customized support.",
+          "href": "/solutions/services/training-support",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Parts",
+          "description": "Repair parts and spare packages.",
+          "href": "/solutions/services/parts",
+          "buttonLabel": "READ MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

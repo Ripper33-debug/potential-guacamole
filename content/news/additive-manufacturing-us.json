@@ -1,0 +1,23 @@
+{
+  "slug": "additive-manufacturing-us",
+  "template": "news",
+  "meta": {
+    "title": "MECC-Based Additive Manufacturing Facility | Weatherhaven",
+    "description": "US additive manufacturing facility delivery."
+  },
+  "hero": {
+    "title": "MECC-Based Additive Manufacturing Facility Delivered to US",
+    "variant": "split",
+    "image": "/images/placeholders/am-facility.svg"
+  },
+  "showContactForm": false,
+  "sections": [
+    {
+      "type": "article",
+      "date": "2024",
+      "body": [
+        "Weatherhaven delivered a MECC-based additive manufacturing facility to support US military operations."
+      ]
+    }
+  ]
+}

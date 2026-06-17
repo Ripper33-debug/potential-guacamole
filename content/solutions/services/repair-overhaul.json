@@ -1,0 +1,35 @@
+{
+  "slug": "repair-overhaul",
+  "template": "solution",
+  "meta": {
+    "title": "Repair and Overhaul | Weatherhaven",
+    "description": "Maintaining Your Deployable Capability"
+  },
+  "hero": {
+    "title": "Repair and Overhaul",
+    "subtitle": "Maintaining Your Deployable Capability",
+    "image": "/images/placeholders/repair-overhaul.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Repair and Overhaul",
+      "body": [
+        "Complete repair, overhaul, modification, and upgrade services for mobile systems."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/repair-overhaul-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

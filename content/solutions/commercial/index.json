@@ -1,0 +1,121 @@
+{
+  "slug": "commercial",
+  "template": "hub",
+  "meta": {
+    "title": "Commercial | Weatherhaven",
+    "description": "The ultimate in rapid-deploy inflatable infrastructure"
+  },
+  "hero": {
+    "title": "Commercial",
+    "subtitle": "The ultimate in rapid-deploy inflatable infrastructure",
+    "image": "/images/placeholders/commercial.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Weatherhaven delivers commercial redeployable infrastructure across mining, energy, and remote workforce sectors globally.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Commercial",
+      "items": [
+        {
+          "title": "Workforce Housing",
+          "description": "Remote camp accommodation.",
+          "href": "/solutions/commercial/workforce-housing",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Antarctic Climate",
+          "description": "Polar research support.",
+          "href": "/solutions/commercial/antarctic-climate",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Turn-Key Solutions",
+          "description": "End-to-end camp delivery.",
+          "href": "/solutions/commercial/turnkey-solutions",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Luxury Mobile Recreation Units",
+          "description": "Premium mobile accommodation.",
+          "href": "/solutions/commercial/luxury-units",
+          "buttonLabel": "READ MORE"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "heading": "Workshops",
+      "items": [
+        {
+          "title": "Tire Maintenance",
+          "description": "Deployable tire workshops.",
+          "href": "/solutions/military/tire-maintenance",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Vehicle Workshops",
+          "description": "Mobile maintenance facilities.",
+          "href": "/solutions/military/vehicle-workshops",
+          "buttonLabel": "READ MORE"
+        },
+        {
+          "title": "Aircraft Support",
+          "description": "Aviation hangars and support.",
+          "href": "/solutions/military/aircraft-support",
+          "buttonLabel": "READ MORE"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    },
+    {
+      "type": "why-choose",
+      "heading": "Why choose Weatherhaven as your redeployable infrastructure and camp provider?",
+      "items": [
+        {
+          "title": "First class solutions",
+          "description": "We have the operational experience to deliver the right solution for your mission, on time and on budget.",
+          "icon": "solutions"
+        },
+        {
+          "title": "Professionally engineered and manufactured in America and Europe",
+          "description": "Our facilities in North America and Europe ensure quality manufacturing to the highest standards.",
+          "icon": "engineering"
+        },
+        {
+          "title": "Delivery and installation across all 7 continents",
+          "description": "For over 45 years we have deployed solutions worldwide, from polar research to desert military camps.",
+          "icon": "global"
+        }
+      ]
+    }
+  ]
+}

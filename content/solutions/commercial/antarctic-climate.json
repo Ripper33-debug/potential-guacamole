@@ -1,0 +1,35 @@
+{
+  "slug": "antarctic-climate",
+  "template": "solution",
+  "meta": {
+    "title": "Antarctic Climate Research | Weatherhaven",
+    "description": "Pioneering polar support systems and infrastructure"
+  },
+  "hero": {
+    "title": "Antarctic Climate Research",
+    "subtitle": "Pioneering polar support systems and infrastructure",
+    "image": "/images/placeholders/antarctic-climate.svg",
+    "variant": "image"
+  },
+  "showContactForm": true,
+  "showRfp": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Pioneering Polar support systems and infrastructure",
+      "body": [
+        "Decades of support behind polar infrastructure on all seven continents."
+      ],
+      "cta": {
+        "label": "DOWNLOAD BROCHURE",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/antarctic-climate-intro.svg"
+    },
+    {
+      "type": "rfp",
+      "heading": "DOWNLOAD OUR RFP GUIDE",
+      "body": "We deliver complete support for your project or mission with fully turnkey deployable systems. From requirements analysis and system engineering to installation and outfitting, Weatherhaven manages every aspect of your mobile infrastructure."
+    }
+  ]
+}

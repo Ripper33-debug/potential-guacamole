@@ -1,0 +1,85 @@
+{
+  "slug": "index",
+  "template": "hub",
+  "meta": {
+    "title": "Innovations | Weatherhaven",
+    "description": "Weatherhaven innovative redeployable solutions."
+  },
+  "hero": {
+    "title": "Innovations",
+    "subtitle": "Expertly engineered for commercial, medical, and military applications",
+    "variant": "navy"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "cta-bar",
+      "body": "Weatherhaven's innovative redeployable solutions are expertly engineered for a range of commercial, medical, and military applications.",
+      "cta": {
+        "label": "GET IN TOUCH",
+        "href": "/contact"
+      }
+    },
+    {
+      "type": "cards",
+      "heading": "Innovative solutions",
+      "columns": 3,
+      "items": [
+        {
+          "title": "World class engineering team",
+          "href": "/innovations/engineering-team",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/eng-team.svg"
+        },
+        {
+          "title": "Patents",
+          "href": "/innovations/patents",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/patents.svg"
+        },
+        {
+          "title": "Designed for Speed and Mobility",
+          "href": "/innovations/speed-mobility",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/speed.svg"
+        },
+        {
+          "title": "Advanced tactical deployable system",
+          "href": "/innovations/tactical-deployable",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/tactical.svg"
+        },
+        {
+          "title": "Expandable Portable Space",
+          "href": "/innovations/expandable-space",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/expandable.svg"
+        },
+        {
+          "title": "Extended Height Mobile Expandable Container",
+          "href": "/innovations/extended-height",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/extended.svg"
+        },
+        {
+          "title": "Energy Efficiency",
+          "href": "/innovations/energy-efficiency",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/energy.svg"
+        },
+        {
+          "title": "Environmental Impact of Solar Shades",
+          "href": "/innovations/solar-shades",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/solar-impact.svg"
+        },
+        {
+          "title": "Extreme Climate and logistics",
+          "href": "/innovations/extreme-climate",
+          "buttonLabel": "READ MORE",
+          "image": "/images/placeholders/extreme.svg"
+        }
+      ]
+    }
+  ]
+}

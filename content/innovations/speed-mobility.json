@@ -1,0 +1,28 @@
+{
+  "slug": "speed-mobility",
+  "template": "static",
+  "meta": {
+    "title": "Speed and Mobility | Weatherhaven",
+    "description": "Designed for speed and mobility."
+  },
+  "hero": {
+    "title": "Designed for Speed and Mobility",
+    "variant": "image",
+    "image": "/images/placeholders/speed.svg"
+  },
+  "showContactForm": true,
+  "sections": [
+    {
+      "type": "intro",
+      "heading": "Designed for Speed and Mobility",
+      "body": [
+        "Rapid deployability and re-deployability for containerized units, soft-wall tents, and hybrid solutions."
+      ],
+      "cta": {
+        "label": "CONNECT WITH AN EXPERT",
+        "href": "/contact"
+      },
+      "image": "/images/placeholders/trecc-deploy.svg"
+    }
+  ]
+}
