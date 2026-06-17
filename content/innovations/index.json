@@ -29,55 +29,55 @@
           "title": "World class engineering team",
           "href": "/innovations/engineering-team",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/eng-team.svg"
+          "image": "/images/content/eng-team.webp"
         },
         {
           "title": "Patents",
           "href": "/innovations/patents",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/patents.svg"
+          "image": "/images/content/patents.webp"
         },
         {
           "title": "Designed for Speed and Mobility",
           "href": "/innovations/speed-mobility",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/speed.svg"
+          "image": "/images/content/speed.webp"
         },
         {
           "title": "Advanced tactical deployable system",
           "href": "/innovations/tactical-deployable",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/tactical.svg"
+          "image": "/images/content/tactical.webp"
         },
         {
           "title": "Expandable Portable Space",
           "href": "/innovations/expandable-space",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/expandable.svg"
+          "image": "/images/content/expandable.webp"
         },
         {
           "title": "Extended Height Mobile Expandable Container",
           "href": "/innovations/extended-height",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/extended.svg"
+          "image": "/images/content/extended.webp"
         },
         {
           "title": "Energy Efficiency",
           "href": "/innovations/energy-efficiency",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/energy.svg"
+          "image": "/images/content/energy.webp"
         },
         {
           "title": "Environmental Impact of Solar Shades",
           "href": "/innovations/solar-shades",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/solar-impact.svg"
+          "image": "/images/content/solar-impact.webp"
         },
         {
           "title": "Extreme Climate and logistics",
           "href": "/innovations/extreme-climate",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/extreme.svg"
+          "image": "/images/content/extreme.webp"
         }
       ]
     }

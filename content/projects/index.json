@@ -8,7 +8,7 @@
   "hero": {
     "title": "Projects",
     "subtitle": "Deployed to more than 95 countries across all 7 continents",
-    "image": "/images/placeholders/projects.svg",
+    "image": "/images/content/projects.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -36,49 +36,49 @@
           "description": "",
           "href": "/projects/africa",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/africa-map.svg"
+          "image": "/images/content/africa-map.webp"
         },
         {
           "title": "Antarctica",
           "description": "",
           "href": "/projects/antarctica",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/antarctica-map.svg"
+          "image": "/images/content/antarctica-map.webp"
         },
         {
           "title": "Asia",
           "description": "",
           "href": "/projects/asia",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/asia-map.svg"
+          "image": "/images/content/asia-map.webp"
         },
         {
           "title": "Australia",
           "description": "",
           "href": "/projects/australia",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/australia-map.svg"
+          "image": "/images/content/australia-map.webp"
         },
         {
           "title": "Europe",
           "description": "",
           "href": "/projects/europe",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/europe-map.svg"
+          "image": "/images/content/europe-map.webp"
         },
         {
           "title": "North America",
           "description": "",
           "href": "/projects/north-america",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/north-america-map.svg"
+          "image": "/images/content/north-america-map.webp"
         },
         {
           "title": "South America",
           "description": "",
           "href": "/projects/south-america",
           "buttonLabel": "READ MORE",
-          "image": "/images/placeholders/south-america-map.svg"
+          "image": "/images/content/south-america-map.webp"
         }
       ]
     }

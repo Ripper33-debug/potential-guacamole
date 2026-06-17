@@ -8,7 +8,7 @@
   "hero": {
     "title": "Isolation Facilities",
     "subtitle": "Secure containment that protects people and preserves mission readiness",
-    "image": "/images/placeholders/isolation-facilities.svg",
+    "image": "/images/content/isolation-facilities.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONSULT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/isolation-facilities-intro.svg"
+      "image": "/images/content/isolation-facilities-intro.webp"
     },
     {
       "type": "rfp",

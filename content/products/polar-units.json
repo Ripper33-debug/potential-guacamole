@@ -8,7 +8,7 @@
   "hero": {
     "title": "Polar Units",
     "subtitle": "Extreme performance solutions for the world's harshest climates",
-    "image": "/images/placeholders/polar-units.svg",
+    "image": "/images/content/polar-units.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/polar-units-detail.svg",
+      "image": "/images/content/polar-units-detail.webp",
       "caption": {
         "title": "Built for survival",
         "body": "Designed for comfort in extreme cold."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Supporting climate research and expeditionary operations since our first Antarctic camp in 1983.",
-          "image": "/images/placeholders/polar-units-grid-1.svg"
+          "image": "/images/content/polar-units-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/polar-units-grid-2.svg"
+          "image": "/images/content/polar-units-grid-2.webp"
         }
       ]
     },

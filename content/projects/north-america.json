@@ -19,19 +19,19 @@
           "tag": "CANADA",
           "title": "Government of Canada (HQSS)",
           "description": "Headquarters Shelter System for Canadian Forces.",
-          "image": "/images/placeholders/hqss.svg"
+          "image": "/images/content/hqss.webp"
         },
         {
           "tag": "CANADA",
           "title": "Government of Canada (MSVS)",
           "description": "Medium Support Vehicle System shelters.",
-          "image": "/images/placeholders/msvs.svg"
+          "image": "/images/content/msvs.webp"
         },
         {
           "tag": "USA",
           "title": "First-ever Additive Manufacturing",
           "description": "Deployable 3D printing facility.",
-          "image": "/images/placeholders/usa-am.svg"
+          "image": "/images/content/usa-am.webp"
         }
       ]
     },

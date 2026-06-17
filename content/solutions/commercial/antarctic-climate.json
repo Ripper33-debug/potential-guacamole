@@ -8,7 +8,7 @@
   "hero": {
     "title": "Antarctic Climate Research",
     "subtitle": "Pioneering polar support systems and infrastructure",
-    "image": "/images/placeholders/antarctic-climate.svg",
+    "image": "/images/content/antarctic-climate.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "DOWNLOAD BROCHURE",
         "href": "/contact"
       },
-      "image": "/images/placeholders/antarctic-climate-intro.svg"
+      "image": "/images/content/antarctic-climate-intro.webp"
     },
     {
       "type": "rfp",

@@ -9,7 +9,7 @@
     "title": "Jessica Au Appointed Weatherhaven Group CFO",
     "subtitle": "Weatherhaven is pleased to announce the appointment of Jessica Au as Chief Financial Officer.",
     "variant": "split",
-    "image": "/images/placeholders/jessica-au.svg"
+    "image": "/images/content/jessica-au.webp"
   },
   "showContactForm": false,
   "sections": [
@@ -24,7 +24,7 @@
         "name": "James Kirk",
         "title": "Chief Operating Officer",
         "bio": "17 years of experience as a Mechanical Engineer leading global operations.",
-        "image": "/images/placeholders/james-kirk.svg"
+        "image": "/images/content/james-kirk.webp"
       }
     }
   ]

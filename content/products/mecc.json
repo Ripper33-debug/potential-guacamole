@@ -8,7 +8,7 @@
   "hero": {
     "title": "MECC",
     "subtitle": "The world's most popular expandable container.",
-    "image": "/images/placeholders/mecc.svg",
+    "image": "/images/content/mecc.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -25,7 +25,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/mecc-detail.svg",
+      "image": "/images/content/mecc-detail.webp",
       "caption": {
         "title": "Limitless applications",
         "body": "From combat to humanitarian relief."
@@ -58,12 +58,12 @@
         {
           "title": "Engineered for mission success",
           "description": "The MECC offers a 3:1 expansion ratio with 15-20 minute setup time and global transportability.",
-          "image": "/images/placeholders/mecc-grid-1.svg"
+          "image": "/images/content/mecc-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/mecc-grid-2.svg"
+          "image": "/images/content/mecc-grid-2.webp"
         }
       ]
     },

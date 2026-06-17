@@ -9,7 +9,7 @@
     "title": "Contact Us",
     "subtitle": "Get in touch with our expert team",
     "variant": "image",
-    "image": "/images/placeholders/contact.svg"
+    "image": "/images/content/contact.webp"
   },
   "showContactForm": true,
   "sections": [

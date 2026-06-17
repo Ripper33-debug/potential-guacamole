@@ -8,7 +8,7 @@
   "hero": {
     "title": "Parts",
     "subtitle": "Request Additional Parts",
-    "image": "/images/placeholders/parts.svg",
+    "image": "/images/content/parts.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/parts-intro.svg"
+      "image": "/images/content/parts-intro.webp"
     },
     {
       "type": "rfp",

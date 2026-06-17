@@ -8,7 +8,7 @@
   "hero": {
     "title": "Field Kitchens and Dining",
     "subtitle": "Redeployable kitchens bringing cooked meals to remote missions worldwide.",
-    "image": "/images/placeholders/field-kitchens.svg",
+    "image": "/images/content/field-kitchens.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/field-kitchens-intro.svg"
+      "image": "/images/content/field-kitchens-intro.webp"
     },
     {
       "type": "rfp",

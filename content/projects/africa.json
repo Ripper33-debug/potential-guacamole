@@ -19,25 +19,25 @@
           "tag": "GHANA",
           "title": "200-Bed Ebola Medical Hospital",
           "description": "Complete field hospital deployment for emergency medical response.",
-          "image": "/images/placeholders/ghana.svg"
+          "image": "/images/content/ghana.webp"
         },
         {
           "tag": "SOUTH AFRICA",
           "title": "South African National Defence Force",
           "description": "Modular container systems for military operations.",
-          "image": "/images/placeholders/sa.svg"
+          "image": "/images/content/sa.webp"
         },
         {
           "tag": "MALI",
           "title": "Standalone medical hangar infrastructure",
           "description": "Medical hangar for remote operations.",
-          "image": "/images/placeholders/mali.svg"
+          "image": "/images/content/mali.webp"
         },
         {
           "tag": "BURUNDI",
           "title": "Burundi Turnkey Camp",
           "description": "Complete turnkey camp deployment.",
-          "image": "/images/placeholders/burundi.svg"
+          "image": "/images/content/burundi.webp"
         }
       ]
     },

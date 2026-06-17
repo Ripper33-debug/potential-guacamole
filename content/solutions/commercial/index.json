@@ -8,7 +8,7 @@
   "hero": {
     "title": "Commercial",
     "subtitle": "The ultimate in rapid-deploy inflatable infrastructure",
-    "image": "/images/placeholders/commercial.svg",
+    "image": "/images/content/commercial.webp",
     "variant": "image"
   },
   "showContactForm": true,

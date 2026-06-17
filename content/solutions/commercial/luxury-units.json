@@ -8,7 +8,7 @@
   "hero": {
     "title": "Luxury Mobile Recreation Units",
     "subtitle": "From Desert Heat to Arctic Cold—Comfort Everywhere",
-    "image": "/images/placeholders/luxury-units.svg",
+    "image": "/images/content/luxury-units.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/luxury-units-intro.svg"
+      "image": "/images/content/luxury-units-intro.webp"
     },
     {
       "type": "rfp",

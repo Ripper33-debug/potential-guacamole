@@ -9,7 +9,7 @@
     "title": "About Us",
     "subtitle": "Global leader in redeployable infrastructure",
     "variant": "image",
-    "image": "/images/placeholders/about-hero.svg"
+    "image": "/images/content/about-hero.webp"
   },
   "showContactForm": true,
   "sections": [
@@ -51,17 +51,17 @@
         {
           "title": "Reliability",
           "description": "Delivering on time and on budget.",
-          "image": "/images/placeholders/value-rel.svg"
+          "image": "/images/content/value-rel.webp"
         },
         {
           "title": "Quality",
           "description": "High engineering standards in everything we build.",
-          "image": "/images/placeholders/value-qual.svg"
+          "image": "/images/content/value-qual.webp"
         },
         {
           "title": "Environment",
           "description": "Sustainable, low-impact solutions.",
-          "image": "/images/placeholders/value-env.svg"
+          "image": "/images/content/value-env.webp"
         }
       ]
     },

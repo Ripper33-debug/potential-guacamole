@@ -8,7 +8,7 @@
   "hero": {
     "title": "Military",
     "subtitle": "Supporting the operator, delivering the mission",
-    "image": "/images/placeholders/military.svg",
+    "image": "/images/content/military.webp",
     "variant": "image"
   },
   "showContactForm": true,

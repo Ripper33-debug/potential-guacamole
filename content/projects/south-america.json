@@ -19,19 +19,19 @@
           "tag": "BRAZIL",
           "title": "Brazilian Army",
           "description": "Field hospital for Brazilian Army.",
-          "image": "/images/placeholders/brazil.svg"
+          "image": "/images/content/brazil.webp"
         },
         {
           "tag": "CHILE",
           "title": "Chilean Ministry of Health",
           "description": "Modular hospital complexes.",
-          "image": "/images/placeholders/chile.svg"
+          "image": "/images/content/chile.webp"
         },
         {
           "tag": "PERU",
           "title": "Quellaveco Mine Turnkey Camp",
           "description": "Large-scale mining camp.",
-          "image": "/images/placeholders/peru.svg"
+          "image": "/images/content/peru.webp"
         }
       ]
     },

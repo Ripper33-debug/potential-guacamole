@@ -8,7 +8,7 @@
   "hero": {
     "title": "Aircraft Support",
     "subtitle": "Rapid-deploy aviation hangars built for global operations and mission success",
-    "image": "/images/placeholders/aircraft-support.svg",
+    "image": "/images/content/aircraft-support.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/aircraft-support-intro.svg"
+      "image": "/images/content/aircraft-support-intro.webp"
     },
     {
       "type": "rfp",

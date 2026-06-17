@@ -9,7 +9,7 @@
     "title": "Timeline",
     "subtitle": "Four decades of innovation and deployment",
     "variant": "image",
-    "image": "/images/placeholders/timeline-hero.svg"
+    "image": "/images/content/timeline-hero.webp"
   },
   "showContactForm": true,
   "sections": [
@@ -20,49 +20,49 @@
           "year": "1981",
           "title": "BEGIN OPERATIONS",
           "description": "Serving expedition and mining sectors.",
-          "image": "/images/placeholders/tl-1981.svg"
+          "image": "/images/content/tl-1981.webp"
         },
         {
           "year": "1981",
           "title": "FIRST CANADIAN MILITARY CONTRACT",
           "description": "HERC-20 system for Canadian Forces.",
-          "image": "/images/placeholders/tl-1981m.svg"
+          "image": "/images/content/tl-1981m.webp"
         },
         {
           "year": "1983",
           "title": "FIRST CAMP IN ANTARCTICA",
           "description": "Research and expeditionary missions.",
-          "image": "/images/placeholders/tl-1983.svg"
+          "image": "/images/content/tl-1983.webp"
         },
         {
           "year": "1984",
           "title": "FIRST UNITED NATIONS CONTRACT",
           "description": "UN Peacekeeping suitability.",
-          "image": "/images/placeholders/tl-1984.svg"
+          "image": "/images/content/tl-1984.webp"
         },
         {
           "year": "1985",
           "title": "FIRST MECC UNITS",
           "description": "Mobile Expandable Container Clinic introduced.",
-          "image": "/images/placeholders/tl-1985.svg"
+          "image": "/images/content/tl-1985.webp"
         },
         {
           "year": "2008",
           "title": "RAY CASTELLI APPOINTED CEO",
           "description": "Leadership transition.",
-          "image": "/images/placeholders/tl-2008.svg"
+          "image": "/images/content/tl-2008.webp"
         },
         {
           "year": "2016",
           "title": "TRECC PATENT FILED",
           "description": "Tactical Rapid Expandable Container Clinic.",
-          "image": "/images/placeholders/tl-2016.svg"
+          "image": "/images/content/tl-2016.webp"
         },
         {
           "year": "2020",
           "title": "COVID-19 PANDEMIC RESPONSE",
           "description": "Delivered over 400 shelters.",
-          "image": "/images/placeholders/tl-2020.svg"
+          "image": "/images/content/tl-2020.webp"
         }
       ]
     }

@@ -8,7 +8,7 @@
   "hero": {
     "title": "Training & In-Service Support",
     "subtitle": "Complete, Customized Support",
-    "image": "/images/placeholders/training-support.svg",
+    "image": "/images/content/training-support.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/training-support-intro.svg"
+      "image": "/images/content/training-support-intro.webp"
     },
     {
       "type": "rfp",

@@ -8,7 +8,7 @@
   "hero": {
     "title": "Inflatable Airbeam LP",
     "subtitle": "The next generation of rapidly deployable inflatable systems.",
-    "image": "/images/placeholders/airbeam-lp.svg",
+    "image": "/images/content/airbeam-lp.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/airbeam-lp-detail.svg",
+      "image": "/images/content/airbeam-lp-detail.webp",
       "caption": {
         "title": "Proven field endurance",
         "body": "High-quality materials for extreme environments."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Cost-effective, robust shelter for military and humanitarian use.",
-          "image": "/images/placeholders/airbeam-lp-grid-1.svg"
+          "image": "/images/content/airbeam-lp-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/airbeam-lp-grid-2.svg"
+          "image": "/images/content/airbeam-lp-grid-2.webp"
         }
       ]
     },

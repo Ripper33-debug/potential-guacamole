@@ -8,7 +8,7 @@
   "hero": {
     "title": "Redeployable 3D Printing",
     "subtitle": "Deliver your additive manufacturing straight to your area of operation",
-    "image": "/images/placeholders/deployable-3d-printing.svg",
+    "image": "/images/content/deployable-3d-printing.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/deployable-3d-printing-intro.svg"
+      "image": "/images/content/deployable-3d-printing-intro.webp"
     },
     {
       "type": "rfp",

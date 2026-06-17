@@ -8,7 +8,7 @@
   "hero": {
     "title": "Softwall",
     "subtitle": "Redeployable soft-walled structures for diverse environments",
-    "image": "/images/placeholders/softwall.svg",
+    "image": "/images/content/softwall.webp",
     "variant": "image"
   },
   "showContactForm": true,

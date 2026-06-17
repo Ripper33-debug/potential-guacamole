@@ -8,7 +8,7 @@
   "hero": {
     "title": "BMECC",
     "subtitle": "The robust, mobile, and rapidly deployable container solution.",
-    "image": "/images/placeholders/bmecc.svg",
+    "image": "/images/content/bmecc.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -25,7 +25,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/bmecc-detail.svg",
+      "image": "/images/content/bmecc-detail.webp",
       "caption": {
         "title": "Intermodal transport and mission-ready design.",
         "body": "Deploy in 20 minutes with 2 people."
@@ -61,12 +61,12 @@
         {
           "title": "Engineered for mission success",
           "description": "The BMECC is engineered for speed and versatility for critical missions, meeting ISO standards for transport as a standard 20' container.",
-          "image": "/images/placeholders/bmecc-grid-1.svg"
+          "image": "/images/content/bmecc-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/bmecc-grid-2.svg"
+          "image": "/images/content/bmecc-grid-2.webp"
         }
       ]
     },

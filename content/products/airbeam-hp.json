@@ -8,7 +8,7 @@
   "hero": {
     "title": "Inflatable Airbeam HP",
     "subtitle": "The ultimate in rapid-deploy inflatable infrastructure.",
-    "image": "/images/placeholders/airbeam-hp.svg",
+    "image": "/images/content/airbeam-hp.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/airbeam-hp-detail.svg",
+      "image": "/images/content/airbeam-hp-detail.webp",
       "caption": {
         "title": "High-pressure structural advantage",
         "body": "Proven Weatherhaven engineering."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "High-pressure airbeam technology for defense and disaster response.",
-          "image": "/images/placeholders/airbeam-hp-grid-1.svg"
+          "image": "/images/content/airbeam-hp-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/airbeam-hp-grid-2.svg"
+          "image": "/images/content/airbeam-hp-grid-2.webp"
         }
       ]
     },

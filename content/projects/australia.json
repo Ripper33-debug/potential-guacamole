@@ -19,13 +19,13 @@
           "tag": "AUSTRALIA",
           "title": "Australian Department of National Defence",
           "description": "Multiple shelter deployments for ADF.",
-          "image": "/images/placeholders/adf.svg"
+          "image": "/images/content/adf.webp"
         },
         {
           "tag": "AUSTRALIA",
           "title": "AIR 67 Super Hornet Command and Control",
           "description": "MECC command and control unit.",
-          "image": "/images/placeholders/air67.svg"
+          "image": "/images/content/air67.webp"
         }
       ]
     },

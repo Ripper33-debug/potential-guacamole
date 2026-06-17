@@ -8,7 +8,7 @@
   "hero": {
     "title": "RDMSS",
     "subtitle": "The world's most advanced shelter system",
-    "image": "/images/placeholders/rdmss.svg",
+    "image": "/images/content/rdmss.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/rdmss-detail.svg",
+      "image": "/images/content/rdmss-detail.webp",
       "caption": {
         "title": "Modular infrastructure",
         "body": "Configurable to mission scale and operational footprint."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Configurable layout with integrated ECU, ducting, and interchangeable doors.",
-          "image": "/images/placeholders/rdmss-grid-1.svg"
+          "image": "/images/content/rdmss-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/rdmss-grid-2.svg"
+          "image": "/images/content/rdmss-grid-2.webp"
         }
       ]
     },

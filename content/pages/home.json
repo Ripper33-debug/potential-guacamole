@@ -9,21 +9,21 @@
     "title": "Redeployable Infrastructure",
     "subtitle": "World leader in turnkey shelter and camp solutions for military, medical, and commercial operations across all seven continents.",
     "variant": "image",
-    "image": "/images/placeholders/home-hero.svg"
+    "image": "/images/content/home-hero.webp"
   },
   "showContactForm": false,
   "sections": [
     {
       "type": "hero-collage",
       "images": [
-        "/images/placeholders/collage-0.svg",
-        "/images/placeholders/collage-1.svg",
-        "/images/placeholders/collage-2.svg",
-        "/images/placeholders/collage-3.svg",
-        "/images/placeholders/collage-4.svg",
-        "/images/placeholders/collage-5.svg",
-        "/images/placeholders/collage-6.svg",
-        "/images/placeholders/collage-7.svg"
+        "/images/content/collage-0.webp",
+        "/images/content/collage-1.webp",
+        "/images/content/collage-2.webp",
+        "/images/content/collage-3.webp",
+        "/images/content/collage-4.webp",
+        "/images/content/collage-5.webp",
+        "/images/content/collage-6.webp",
+        "/images/content/collage-7.webp"
       ],
       "body": "Weatherhaven is a world leader in redeployable infrastructure, delivering turnkey shelter and camp solutions to military, medical, and commercial clients across all seven continents.",
       "cta": {
@@ -38,25 +38,25 @@
           "title": "Workforce Housing",
           "description": "Remote camp accommodation for mining and energy.",
           "href": "/solutions/commercial/workforce-housing",
-          "image": "/images/placeholders/carousel-wh.svg"
+          "image": "/images/content/carousel-wh.webp"
         },
         {
           "title": "Antarctic Climate",
           "description": "Polar research infrastructure.",
           "href": "/solutions/commercial/antarctic-climate",
-          "image": "/images/placeholders/carousel-ant.svg"
+          "image": "/images/content/carousel-ant.webp"
         },
         {
           "title": "Military Camps",
           "description": "Turnkey military camp solutions.",
           "href": "/solutions/military/military-camps",
-          "image": "/images/placeholders/carousel-mil.svg"
+          "image": "/images/content/carousel-mil.webp"
         },
         {
           "title": "Field Hospitals",
           "description": "Mobile medical facilities.",
           "href": "/solutions/medical/field-hospitals",
-          "image": "/images/placeholders/carousel-fh.svg"
+          "image": "/images/content/carousel-fh.webp"
         }
       ]
     },
@@ -64,7 +64,7 @@
       "type": "split-banner",
       "title": "Mobile Healthcare",
       "description": "Complete mobile medical infrastructure for humanitarian relief, military operations, and emergency response worldwide.",
-      "image": "/images/placeholders/mobile-healthcare.svg",
+      "image": "/images/content/mobile-healthcare.webp",
       "buttons": [
         {
           "label": "CONTACT US",
@@ -101,7 +101,7 @@
       "type": "split-banner",
       "title": "TRECC",
       "description": "Tactical Redeployable Expanding Container Capability — trailer-mounted, deployed in under 30 minutes.",
-      "image": "/images/placeholders/trecc-banner.svg",
+      "image": "/images/content/trecc-banner.webp",
       "buttons": [
         {
           "label": "CONTACT US",
@@ -120,26 +120,26 @@
         "title": "MECC-Based Additive Manufacturing Facility Delivered to US",
         "description": "Weatherhaven delivers cutting-edge deployable manufacturing capability.",
         "href": "/news/additive-manufacturing-us",
-        "image": "/images/placeholders/news-featured.svg"
+        "image": "/images/content/news-featured.webp"
       },
       "items": [
         {
           "title": "Jessica Au Appointed Weatherhaven Group CFO",
           "description": "September 2024",
           "href": "/news/jessica-au-cfo",
-          "image": "/images/placeholders/news-1.svg"
+          "image": "/images/content/news-1.webp"
         },
         {
           "title": "Weatherhaven Backs Future Talent",
           "description": "Supporting next generation engineers.",
           "href": "/news",
-          "image": "/images/placeholders/news-2.svg"
+          "image": "/images/content/news-2.webp"
         },
         {
           "title": "Weatherhaven and Compotech announce partnership",
           "description": "Strategic partnership announcement.",
           "href": "/news",
-          "image": "/images/placeholders/news-3.svg"
+          "image": "/images/content/news-3.webp"
         }
       ]
     },
@@ -147,7 +147,7 @@
       "type": "team-cta",
       "title": "We're committed to finding the right solution for you",
       "body": "Our expert team is ready to discuss your project requirements and deliver a turnkey solution tailored to your mission.",
-      "image": "/images/placeholders/team.svg",
+      "image": "/images/content/team.webp",
       "cta": {
         "label": "GET IN TOUCH WITH AN EXPERT",
         "href": "/contact"

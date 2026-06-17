@@ -59,13 +59,19 @@ export function PlaceholderImage({
   priority?: boolean;
 }) {
   const imageSrc = src || "/images/placeholders/default.svg";
+  const isPlaceholder = imageSrc.includes("/placeholders/") || imageSrc.endsWith(".svg");
+
   return (
-    <div className={`wh-image-frame ${className}`}>
+    <div className={`${isPlaceholder ? "wh-image-frame" : "relative overflow-hidden bg-wh-gray-muted"} ${className}`}>
       <Image
         src={imageSrc}
         alt={alt}
         fill
-        className="object-cover opacity-75 mix-blend-luminosity transition-transform duration-700 hover:scale-105"
+        className={
+          isPlaceholder
+            ? "object-cover opacity-75 mix-blend-luminosity transition-transform duration-700 hover:scale-105"
+            : "object-cover transition-transform duration-700 hover:scale-105"
+        }
         priority={priority}
         sizes="(max-width: 768px) 100vw, 50vw"
       />

@@ -8,7 +8,7 @@
   "hero": {
     "title": "ATEPS",
     "subtitle": "Air Transportable Expandable Pallet System",
-    "image": "/images/placeholders/ateps.svg",
+    "image": "/images/content/ateps.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -25,7 +25,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/ateps-detail.svg",
+      "image": "/images/content/ateps-detail.webp",
       "caption": {
         "title": "Mission-ready design",
         "body": "Military-grade aluminum chassis with integrated systems."
@@ -58,12 +58,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Fits on a single 463L pallet and expands in minutes to provide a secure, insulated workspace.",
-          "image": "/images/placeholders/ateps-grid-1.svg"
+          "image": "/images/content/ateps-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/ateps-grid-2.svg"
+          "image": "/images/content/ateps-grid-2.webp"
         }
       ]
     },

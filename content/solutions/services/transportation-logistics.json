@@ -8,7 +8,7 @@
   "hero": {
     "title": "Transportation and Logistics",
     "subtitle": "Built For Intermodal Transportation",
-    "image": "/images/placeholders/transportation-logistics.svg",
+    "image": "/images/content/transportation-logistics.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/transportation-logistics-intro.svg"
+      "image": "/images/content/transportation-logistics-intro.webp"
     },
     {
       "type": "rfp",

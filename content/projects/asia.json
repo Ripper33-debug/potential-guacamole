@@ -19,19 +19,19 @@
           "tag": "UAE",
           "title": "50-Bed Simulation Hospital",
           "description": "Desert encampment medical simulation facility.",
-          "image": "/images/placeholders/uae.svg"
+          "image": "/images/content/uae.webp"
         },
         {
           "tag": "JAPAN",
           "title": "Redeployable Helicopter Camp",
           "description": "Modular camp for helicopter operations.",
-          "image": "/images/placeholders/japan.svg"
+          "image": "/images/content/japan.webp"
         },
         {
           "tag": "MONGOLIA",
           "title": "Oyu Tolgoi Remote Workforce Camp",
           "description": "Large-scale remote mining camp.",
-          "image": "/images/placeholders/mongolia.svg"
+          "image": "/images/content/mongolia.webp"
         }
       ]
     },

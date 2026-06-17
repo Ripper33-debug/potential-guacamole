@@ -8,7 +8,7 @@
   "hero": {
     "title": "Command Posts",
     "subtitle": "Supporting the warfighter with the latest in Command Post technology",
-    "image": "/images/placeholders/command-posts.svg",
+    "image": "/images/content/command-posts.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/command-posts-intro.svg"
+      "image": "/images/content/command-posts-intro.webp"
     },
     {
       "type": "rfp",

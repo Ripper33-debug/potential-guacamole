@@ -8,7 +8,7 @@
   "hero": {
     "title": "Solarshades",
     "subtitle": "Engineered protection from solar radiation and heat gain.",
-    "image": "/images/placeholders/solarshades.svg",
+    "image": "/images/content/solarshades.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/solarshades-detail.svg",
+      "image": "/images/content/solarshades-detail.webp",
       "caption": {
         "title": "Lightweight and easy to deploy",
         "body": "Four-person crew setup in ~20 minutes."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "80%-90% solar blockage reducing heat-related injuries and extending fabric life.",
-          "image": "/images/placeholders/solarshades-grid-1.svg"
+          "image": "/images/content/solarshades-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/solarshades-grid-2.svg"
+          "image": "/images/content/solarshades-grid-2.webp"
         }
       ]
     },

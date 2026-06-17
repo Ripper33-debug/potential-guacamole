@@ -8,7 +8,7 @@
   "hero": {
     "title": "Supplier Information",
     "variant": "image",
-    "image": "/images/placeholders/supplier.svg"
+    "image": "/images/content/supplier.webp"
   },
   "showContactForm": true,
   "sections": [

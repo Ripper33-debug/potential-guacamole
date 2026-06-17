@@ -8,7 +8,7 @@
   "hero": {
     "title": "Vehicle Workshops",
     "subtitle": "Keeping your fleet moving, anywhere in the world",
-    "image": "/images/placeholders/vehicle-workshops.svg",
+    "image": "/images/content/vehicle-workshops.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/vehicle-workshops-intro.svg"
+      "image": "/images/content/vehicle-workshops-intro.webp"
     },
     {
       "type": "rfp",

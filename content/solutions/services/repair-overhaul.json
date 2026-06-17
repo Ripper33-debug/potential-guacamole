@@ -8,7 +8,7 @@
   "hero": {
     "title": "Repair and Overhaul",
     "subtitle": "Maintaining Your Deployable Capability",
-    "image": "/images/placeholders/repair-overhaul.svg",
+    "image": "/images/content/repair-overhaul.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/repair-overhaul-intro.svg"
+      "image": "/images/content/repair-overhaul-intro.webp"
     },
     {
       "type": "rfp",

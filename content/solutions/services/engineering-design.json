@@ -8,7 +8,7 @@
   "hero": {
     "title": "Engineering & Design",
     "subtitle": "Customized to suit your unique needs",
-    "image": "/images/placeholders/engineering-design.svg",
+    "image": "/images/content/engineering-design.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/engineering-design-intro.svg"
+      "image": "/images/content/engineering-design-intro.webp"
     },
     {
       "type": "rfp",

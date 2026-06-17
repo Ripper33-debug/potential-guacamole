@@ -8,7 +8,7 @@
   "hero": {
     "title": "TRECC",
     "subtitle": "The tactical mission space, expanding the art of the possible.",
-    "image": "/images/placeholders/trecc.svg",
+    "image": "/images/content/trecc.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -25,7 +25,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/trecc-detail.svg",
+      "image": "/images/content/trecc-detail.webp",
       "caption": {
         "title": "Mobile systems integrated",
         "body": "Self-sufficient operational capability."
@@ -58,12 +58,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Trailer-mounted innovation fully deployed in under 30 minutes by two operators.",
-          "image": "/images/placeholders/trecc-grid-1.svg"
+          "image": "/images/content/trecc-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/trecc-grid-2.svg"
+          "image": "/images/content/trecc-grid-2.webp"
         }
       ]
     },

@@ -8,7 +8,7 @@
   "hero": {
     "title": "Designed for Speed and Mobility",
     "variant": "image",
-    "image": "/images/placeholders/speed.svg"
+    "image": "/images/content/speed.webp"
   },
   "showContactForm": true,
   "sections": [
@@ -22,7 +22,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/trecc-deploy.svg"
+      "image": "/images/content/trecc-deploy.webp"
     }
   ]
 }

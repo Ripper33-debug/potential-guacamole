@@ -19,19 +19,19 @@
           "tag": "ANTARCTIC",
           "title": "Chinese Army – Kunlun Station and Taishan Station",
           "description": "Polar camp systems for research stations.",
-          "image": "/images/placeholders/kunlun.svg"
+          "image": "/images/content/kunlun.webp"
         },
         {
           "tag": "ANTARCTIC",
           "title": "Beyond EPICA Climate Research Program",
           "description": "Climate research facility in Antarctica.",
-          "image": "/images/placeholders/epica.svg"
+          "image": "/images/content/epica.webp"
         },
         {
           "tag": "ANTARCTIC",
           "title": "British Antarctic Survey",
           "description": "Tracked vehicle shelter systems.",
-          "image": "/images/placeholders/bas.svg"
+          "image": "/images/content/bas.webp"
         }
       ]
     },

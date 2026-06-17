@@ -8,7 +8,7 @@
   "hero": {
     "title": "Emergency Response",
     "subtitle": "Designed For Disasters Of Any Scale",
-    "image": "/images/placeholders/emergency-response.svg",
+    "image": "/images/content/emergency-response.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/emergency-response-intro.svg"
+      "image": "/images/content/emergency-response-intro.webp"
     },
     {
       "type": "rfp",

@@ -19,19 +19,19 @@
           "tag": "GREENLAND",
           "title": "Infrastructure Project, Series 4 Mobile Camp",
           "description": "Arctic mobile camp for infrastructure repair.",
-          "image": "/images/placeholders/greenland.svg"
+          "image": "/images/content/greenland.webp"
         },
         {
           "tag": "UKRAINE",
           "title": "Armed Forces of Ukraine",
           "description": "50-bed field hospital system.",
-          "image": "/images/placeholders/ukraine.svg"
+          "image": "/images/content/ukraine.webp"
         },
         {
           "tag": "NETHERLANDS",
           "title": "Role 2 MTF - Netherlands Project",
           "description": "Expandable medical configuration.",
-          "image": "/images/placeholders/netherlands.svg"
+          "image": "/images/content/netherlands.webp"
         }
       ]
     },

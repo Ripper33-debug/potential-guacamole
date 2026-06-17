@@ -8,7 +8,7 @@
   "hero": {
     "title": "Medical",
     "subtitle": "World-Class Care, Anywhere",
-    "image": "/images/placeholders/medical.svg",
+    "image": "/images/content/medical.webp",
     "variant": "image"
   },
   "showContactForm": true,

@@ -8,7 +8,7 @@
   "hero": {
     "title": "MEX-26",
     "subtitle": "Aircraft & Vehicle Maintenance System",
-    "image": "/images/placeholders/mex-26.svg",
+    "image": "/images/content/mex-26.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/mex-26-detail.svg",
+      "image": "/images/content/mex-26-detail.webp",
       "caption": {
         "title": "Reliable performance",
         "body": "Used by Canadian Forces worldwide."
@@ -57,12 +57,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Rugged modular facility for rapid deployment in remote environments.",
-          "image": "/images/placeholders/mex-26-grid-1.svg"
+          "image": "/images/content/mex-26-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/mex-26-grid-2.svg"
+          "image": "/images/content/mex-26-grid-2.webp"
         }
       ]
     },

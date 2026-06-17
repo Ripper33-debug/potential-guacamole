@@ -8,7 +8,7 @@
   "hero": {
     "title": "Field Hospitals",
     "subtitle": "Fully equipped medical facilities designed to deliver reliable care in remote, austere, or high-pressure environments",
-    "image": "/images/placeholders/field-hospitals.svg",
+    "image": "/images/content/field-hospitals.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/field-hospitals-intro.svg",
+      "image": "/images/content/field-hospitals-intro.webp",
       "caption": {
         "title": "Medical Facilities",
         "body": "Level I, II, and III facilities for commercial, military, and emergency response."
@@ -39,7 +39,7 @@
             "Doctor's office equivalent for diagnosing and treating patients.",
             "Reception, examination, and stabilization capabilities."
           ],
-          "image": "/images/placeholders/fh-l1.svg"
+          "image": "/images/content/fh-l1.webp"
         },
         {
           "title": "Portable Surgical Centres (Level II)",
@@ -47,7 +47,7 @@
             "Temperature-controlled hygienic complex for surgery.",
             "Interconnected shelters with controlled staff movement."
           ],
-          "image": "/images/placeholders/fh-l2.svg"
+          "image": "/images/content/fh-l2.webp"
         },
         {
           "title": "Military Field Hospitals (Level III)",
@@ -55,7 +55,7 @@
             "Full-scale hospitals for surgery, resuscitation, and post-op care.",
             "Includes kitchens, laundry, and staff housing."
           ],
-          "image": "/images/placeholders/fh-l3.svg"
+          "image": "/images/content/fh-l3.webp"
         }
       ]
     },

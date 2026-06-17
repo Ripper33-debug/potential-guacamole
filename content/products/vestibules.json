@@ -8,7 +8,7 @@
   "hero": {
     "title": "Vestibules, Interconnectors & Corridors",
     "subtitle": "Seamless connectivity and weather protection across modular systems",
-    "image": "/images/placeholders/vestibules.svg",
+    "image": "/images/content/vestibules.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/vestibules-detail.svg",
+      "image": "/images/content/vestibules-detail.webp",
       "caption": {
         "title": "Entry transition",
         "body": "Reduce heat loss and air intrusion."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Essential links between containers and soft-wall systems creating weather-controlled facilities.",
-          "image": "/images/placeholders/vestibules-grid-1.svg"
+          "image": "/images/content/vestibules-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/vestibules-grid-2.svg"
+          "image": "/images/content/vestibules-grid-2.webp"
         }
       ]
     },

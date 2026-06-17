@@ -9,7 +9,7 @@
     "title": "Patents",
     "subtitle": "51 patents in 30 countries",
     "variant": "image",
-    "image": "/images/placeholders/patents.svg"
+    "image": "/images/content/patents.webp"
   },
   "showContactForm": true,
   "sections": [
@@ -23,7 +23,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/patent-doc.svg"
+      "image": "/images/content/patent-doc.webp"
     }
   ]
 }

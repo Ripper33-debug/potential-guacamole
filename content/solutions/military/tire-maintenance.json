@@ -8,7 +8,7 @@
   "hero": {
     "title": "Tire Maintenance",
     "subtitle": "Deployable tire workshops boosting readiness anywhere, anytime, with ease",
-    "image": "/images/placeholders/tire-maintenance.svg",
+    "image": "/images/content/tire-maintenance.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/tire-maintenance-intro.svg"
+      "image": "/images/content/tire-maintenance-intro.webp"
     },
     {
       "type": "rfp",

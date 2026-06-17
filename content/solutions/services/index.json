@@ -8,7 +8,7 @@
   "hero": {
     "title": "Services",
     "subtitle": "Fully Integrated Service & Support",
-    "image": "/images/placeholders/services.svg",
+    "image": "/images/content/services.webp",
     "variant": "image"
   },
   "showContactForm": true,

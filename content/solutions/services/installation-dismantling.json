@@ -8,7 +8,7 @@
   "hero": {
     "title": "Installation & Dismantling",
     "subtitle": "Effortless Install & Dismantle",
-    "image": "/images/placeholders/installation-dismantling.svg",
+    "image": "/images/content/installation-dismantling.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "label": "CONNECT WITH AN EXPERT",
         "href": "/contact"
       },
-      "image": "/images/placeholders/installation-dismantling-intro.svg"
+      "image": "/images/content/installation-dismantling-intro.webp"
     },
     {
       "type": "rfp",

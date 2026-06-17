@@ -8,7 +8,7 @@
   "hero": {
     "title": "Series 4",
     "subtitle": "Trusted to endure some of the world's most extreme environments",
-    "image": "/images/placeholders/series-4.svg",
+    "image": "/images/content/series-4.webp",
     "variant": "image"
   },
   "showContactForm": true,
@@ -24,7 +24,7 @@
         "href": "/contact",
         "variant": "primary"
       },
-      "image": "/images/placeholders/series-4-detail.svg",
+      "image": "/images/content/series-4-detail.webp",
       "caption": {
         "title": "Modular design",
         "body": "Kitchens, laundries, and complete operational facilities."
@@ -54,12 +54,12 @@
         {
           "title": "Engineered for mission success",
           "description": "Flexible modular design adapts seamlessly to client-specific requirements.",
-          "image": "/images/placeholders/series-4-grid-1.svg"
+          "image": "/images/content/series-4-grid-1.webp"
         },
         {
           "title": "Operational effectiveness in the field",
           "description": "Designed for rapid deployment with minimal personnel and no specialized tools required.",
-          "image": "/images/placeholders/series-4-grid-2.svg"
+          "image": "/images/content/series-4-grid-2.webp"
         }
       ]
     },

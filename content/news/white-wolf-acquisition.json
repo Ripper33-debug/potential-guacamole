@@ -9,7 +9,7 @@
     "title": "Weatherhaven acquired by White Wolf Capital",
     "subtitle": "Strategic acquisition to accelerate growth.",
     "variant": "split",
-    "image": "/images/placeholders/acquisition.svg"
+    "image": "/images/content/acquisition.webp"
   },
   "showContactForm": false,
   "sections": [
@@ -24,7 +24,7 @@
         "name": "James Kirk",
         "title": "Chief Operating Officer",
         "bio": "17 years of experience leading Weatherhaven operations.",
-        "image": "/images/placeholders/james-kirk.svg"
+        "image": "/images/content/james-kirk.webp"
       }
     }
   ]
