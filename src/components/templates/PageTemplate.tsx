@@ -9,11 +9,9 @@ interface PageTemplateProps {
 }
 
 export default function PageTemplate({ page, markets }: PageTemplateProps) {
-  const skipHero = page.template === "homepage";
-
   return (
     <>
-      {!skipHero && <PageHero hero={page.hero} />}
+      <PageHero hero={page.hero} />
       {page.sections.map((section, i) => (
         <SectionRenderer key={`${section.type}-${i}`} section={section} />
       ))}

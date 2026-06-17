@@ -16,13 +16,13 @@ export default function SiteHeader({ navigation }: { navigation: NavItem[] }) {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-gray-200 bg-white">
-      <div className="wh-container flex h-16 items-center justify-between lg:h-20">
-        <Link href="/" className="flex items-center gap-3">
-          <Image src="/images/logo.png" alt="Weatherhaven" width={160} height={40} className="h-8 w-auto lg:h-10" priority />
+    <header className="sticky top-0 z-50 border-b border-wh-gray-muted/80 bg-white/95 shadow-sm backdrop-blur-md">
+      <div className="wh-container flex h-[72px] items-center justify-between lg:h-20">
+        <Link href="/" className="flex shrink-0 items-center transition-opacity hover:opacity-90">
+          <Image src="/images/logo.png" alt="Weatherhaven" width={180} height={44} className="h-9 w-auto lg:h-11" priority />
         </Link>
 
-        <nav className="hidden items-center gap-6 lg:flex">
+        <nav className="hidden items-center gap-8 lg:flex">
           {navigation.map((item) => (
             <div
               key={item.label}
@@ -34,9 +34,13 @@ export default function SiteHeader({ navigation }: { navigation: NavItem[] }) {
                 {item.label}
               </Link>
               {item.children && openDropdown === item.label && (
-                <div className="absolute left-0 top-full z-50 mt-0 min-w-[220px] border border-gray-100 bg-white py-2 shadow-lg">
+                <div className="absolute left-0 top-[calc(100%+8px)] z-50 min-w-[240px] overflow-hidden rounded-sm border border-wh-gray-muted bg-white py-2 shadow-xl shadow-wh-navy/10">
                   {item.children.map((child) => (
-                    <Link key={child.href} href={child.href} className="block px-4 py-2 text-sm text-wh-navy hover:bg-wh-gray-light hover:text-wh-orange">
+                    <Link
+                      key={child.href}
+                      href={child.href}
+                      className="block border-l-2 border-transparent px-5 py-2.5 text-sm font-medium text-wh-navy transition-colors hover:border-wh-orange hover:bg-wh-gray-light hover:text-wh-orange"
+                    >
                       {child.label}
                     </Link>
                   ))}
@@ -44,32 +48,46 @@ export default function SiteHeader({ navigation }: { navigation: NavItem[] }) {
               )}
             </div>
           ))}
-          <Button label="CONTACT" href="/contact" />
+          <Button label="Contact" href="/contact" className="!px-5 !py-2.5" />
         </nav>
 
-        <button type="button" className="lg:hidden" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Toggle menu">
-          <svg className="h-6 w-6 text-wh-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <button
+          type="button"
+          className="rounded-sm p-2 text-wh-navy transition-colors hover:bg-wh-gray-light lg:hidden"
+          onClick={() => setMobileOpen(!mobileOpen)}
+          aria-label="Toggle menu"
+        >
+          <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d={mobileOpen ? "M6 18L18 6M6 6l12 12" : "M4 6h16M4 12h16M4 18h16"} />
           </svg>
         </button>
       </div>
 
       {mobileOpen && (
-        <div className="border-t border-gray-200 bg-white lg:hidden">
-          <div className="wh-container space-y-1 py-4">
+        <div className="border-t border-wh-gray-muted bg-white lg:hidden">
+          <div className="wh-container space-y-1 py-5">
             {navigation.map((item) => (
               <div key={item.label}>
-                <Link href={item.href} className="block py-2 text-sm font-semibold uppercase text-wh-navy" onClick={() => setMobileOpen(false)}>
+                <Link
+                  href={item.href}
+                  className="block py-2.5 text-sm font-bold uppercase tracking-wider text-wh-navy"
+                  onClick={() => setMobileOpen(false)}
+                >
                   {item.label}
                 </Link>
                 {item.children?.map((child) => (
-                  <Link key={child.href} href={child.href} className="block py-1 pl-4 text-sm text-wh-gray-text" onClick={() => setMobileOpen(false)}>
+                  <Link
+                    key={child.href}
+                    href={child.href}
+                    className="block py-2 pl-4 text-sm text-wh-gray-text hover:text-wh-orange"
+                    onClick={() => setMobileOpen(false)}
+                  >
                     {child.label}
                   </Link>
                 ))}
               </div>
             ))}
-            <Button label="CONTACT" href="/contact" className="mt-4" />
+            <Button label="Contact" href="/contact" className="mt-4" />
           </div>
         </div>
       )}

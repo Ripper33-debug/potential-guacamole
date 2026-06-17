@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Barlow_Condensed, Inter } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import SiteHeader from "@/components/layout/SiteHeader";
@@ -9,6 +9,12 @@ import { getNavigation, getSiteConfig } from "@/lib/content";
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
+});
+
+const barlow = Barlow_Condensed({
+  variable: "--font-barlow",
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
 });
 
 export const metadata: Metadata = {
@@ -30,7 +36,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className={`${inter.variable} antialiased`}>
+      <body className={`${inter.variable} ${barlow.variable} antialiased`}>
         <SiteHeader navigation={navigation.main} />
         <main>{children}</main>
         <SiteFooter site={site} legal={navigation.footer.legal} />
